@@ -1,0 +1,139 @@
+{
+  "slug": "advice-vs-advise",
+  "title": "Advice vs Advise",
+  "words": [
+    "advice",
+    "advise"
+  ],
+  "level": "B1",
+  "category": "grammar",
+  "tags": [
+    "noun vs verb"
+  ],
+  "shortSummary": "Advice is a noun (a suggestion); advise is a verb (to give a suggestion).",
+  "quickAnswer": "Use 'advice' when you talk about the suggestion itself (a thing). Use 'advise' when you talk about the action of giving a suggestion.",
+  "coreDifference": "Advice is a noun (what you give); advise is a verb (the act of giving).",
+  "englishExplanation": "Advice and advise are often confused because they sound similar. 'Advice' (with a 'c') is a noun. It means an opinion or suggestion about what to do. For example, 'She gave me good advice.' 'Advise' (with an 's') is a verb. It means to give advice. For example, 'I advise you to study more.' Notice that 'advise' is pronounced with a /z/ sound, while 'advice' has an /s/ sound.",
+  "wordDetails": [
+    {
+      "word": "advice",
+      "partOfSpeech": "noun",
+      "simpleMeaning": "an opinion or suggestion about what someone should do",
+      "commonPatterns": [
+        "give advice",
+        "take advice",
+        "some advice",
+        "a piece of advice"
+      ]
+    },
+    {
+      "word": "advise",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to give advice to someone",
+      "commonPatterns": [
+        "advise someone",
+        "advise someone to do something",
+        "advise against"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "advice",
+      "sentence": "My father gave me good advice about money.",
+      "note": "Advice is a thing (noun)."
+    },
+    {
+      "word": "advice",
+      "sentence": "Can you give me some advice?",
+      "note": "You ask for a suggestion."
+    },
+    {
+      "word": "advice",
+      "sentence": "I need a piece of advice.",
+      "note": "We often say 'a piece of advice' because advice is uncountable."
+    },
+    {
+      "word": "advise",
+      "sentence": "I advise you to see a doctor.",
+      "note": "Advise is an action (verb)."
+    },
+    {
+      "word": "advise",
+      "sentence": "She advised me to apply for the job.",
+      "note": "Past tense: advised."
+    },
+    {
+      "word": "advise",
+      "sentence": "The lawyer advised against signing the contract.",
+      "note": "Advise against means recommend not to do something."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "advice-vs-advise-1",
+      "question": "Can you give me some ______?",
+      "options": [
+        "advice",
+        "advise"
+      ],
+      "answer": "advice",
+      "explanation": "After 'give me some', you need a noun. 'Advice' is the noun."
+    },
+    {
+      "id": "advice-vs-advise-2",
+      "question": "I ______ you to take the train.",
+      "options": [
+        "advice",
+        "advise"
+      ],
+      "answer": "advise",
+      "explanation": "The subject 'I' needs a verb. 'Advise' is the verb."
+    },
+    {
+      "id": "advice-vs-advise-3",
+      "question": "She followed her mother's ______.",
+      "options": [
+        "advice",
+        "advise"
+      ],
+      "answer": "advice",
+      "explanation": "After possessive 'mother's', you need a noun. 'Advice' is the noun."
+    },
+    {
+      "id": "advice-vs-advise-4",
+      "question": "The doctor ______ him to rest.",
+      "options": [
+        "adviced",
+        "advised"
+      ],
+      "answer": "advised",
+      "explanation": "Past tense of 'advise' is 'advised'."
+    },
+    {
+      "id": "advice-vs-advise-5",
+      "question": "Let me give you a piece of ______.",
+      "options": [
+        "advice",
+        "advise"
+      ],
+      "answer": "advice",
+      "explanation": "'A piece of' is used with uncountable nouns. 'Advice' is uncountable."
+    }
+  ],
+  "relatedSlugs": [
+    "affect-vs-effect",
+    "sensible-vs-sensitive",
+    "say-vs-tell"
+  ],
+  "seo": {
+    "title": "Advice vs Advise: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between advice and advise with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/advice-vs-advise",
+    "keywords": [
+      "advice vs advise",
+      "advice or advise",
+      "English confusing words"
+    ]
+  }
+}

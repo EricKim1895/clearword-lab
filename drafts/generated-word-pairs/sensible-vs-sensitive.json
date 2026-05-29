@@ -1,0 +1,136 @@
+{
+  "slug": "sensible-vs-sensitive",
+  "title": "Sensible vs Sensitive",
+  "words": [
+    "sensible",
+    "sensitive"
+  ],
+  "level": "B1",
+  "category": "adjectives",
+  "tags": [
+    "personality"
+  ],
+  "shortSummary": "Sensible means practical and reasonable; sensitive means easily affected by emotions or outside things.",
+  "quickAnswer": "Use 'sensible' for someone who makes good decisions. Use 'sensitive' for someone who feels emotions strongly or reacts easily to things like light or criticism.",
+  "coreDifference": "Sensible is about being practical; sensitive is about being easily affected.",
+  "englishExplanation": "Sensible and sensitive look similar but have different meanings. A sensible person makes good, practical decisions. For example, 'It was sensible to bring an umbrella.' A sensitive person feels emotions deeply or is easily hurt. For example, 'She is sensitive to criticism.' Sensitive can also describe physical reactions, like 'sensitive skin' or 'sensitive to light.'",
+  "wordDetails": [
+    {
+      "word": "sensible",
+      "partOfSpeech": "adjective",
+      "simpleMeaning": "having or showing good sense; practical",
+      "commonPatterns": [
+        "sensible + noun",
+        "it is sensible to + verb"
+      ]
+    },
+    {
+      "word": "sensitive",
+      "partOfSpeech": "adjective",
+      "simpleMeaning": "easily upset or affected; aware of small changes",
+      "commonPatterns": [
+        "sensitive to + noun",
+        "sensitive about + noun"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "sensible",
+      "sentence": "Wearing a helmet is a sensible choice.",
+      "note": "It shows good judgment."
+    },
+    {
+      "word": "sensible",
+      "sentence": "She is a sensible woman who saves money.",
+      "note": "She is practical."
+    },
+    {
+      "word": "sensible",
+      "sentence": "That's a sensible idea.",
+      "note": "The idea is reasonable."
+    },
+    {
+      "word": "sensitive",
+      "sentence": "He is very sensitive about his height.",
+      "note": "He gets upset easily about it."
+    },
+    {
+      "word": "sensitive",
+      "sentence": "My skin is sensitive to the sun.",
+      "note": "It reacts easily."
+    },
+    {
+      "word": "sensitive",
+      "sentence": "She is sensitive to other people's feelings.",
+      "note": "Sensitive can describe someone who notices or cares about feelings."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "sensible-vs-sensitive-1",
+      "question": "A ______ person thinks carefully before making decisions.",
+      "options": [
+        "sensible",
+        "sensitive"
+      ],
+      "answer": "sensible",
+      "explanation": "This describes a practical person, so 'sensible' is correct."
+    },
+    {
+      "id": "sensible-vs-sensitive-2",
+      "question": "Don't be so ______; I was just joking.",
+      "options": [
+        "sensible",
+        "sensitive"
+      ],
+      "answer": "sensitive",
+      "explanation": "The person is easily upset, so 'sensitive' is correct."
+    },
+    {
+      "id": "sensible-vs-sensitive-3",
+      "question": "My teeth are ______ to cold drinks.",
+      "options": [
+        "sensible",
+        "sensitive"
+      ],
+      "answer": "sensitive",
+      "explanation": "Physical reaction to cold, so 'sensitive'."
+    },
+    {
+      "id": "sensible-vs-sensitive-4",
+      "question": "It's not ______ to spend all your money on games.",
+      "options": [
+        "sensible",
+        "sensitive"
+      ],
+      "answer": "sensible",
+      "explanation": "The action is not practical, so 'sensible' (negative)."
+    },
+    {
+      "id": "sensible-vs-sensitive-5",
+      "question": "She is very ______ to other people's feelings.",
+      "options": [
+        "sensible",
+        "sensitive"
+      ],
+      "answer": "sensitive",
+      "explanation": "She is aware and affected by others' feelings, so 'sensitive'."
+    }
+  ],
+  "relatedSlugs": [
+    "fun-vs-funny",
+    "alone-vs-lonely",
+    "beside-vs-besides"
+  ],
+  "seo": {
+    "title": "Sensible vs Sensitive: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between sensible and sensitive with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/sensible-vs-sensitive",
+    "keywords": [
+      "sensible vs sensitive",
+      "sensible or sensitive",
+      "English confusing words"
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "speak-vs-talk",
+  "title": "Speak vs Talk",
+  "words": [
+    "speak",
+    "talk"
+  ],
+  "level": "A2",
+  "category": "verbs",
+  "tags": [
+    "communication verbs",
+    "speaking"
+  ],
+  "shortSummary": "Speak is often more formal or one-way; talk is more informal and conversational.",
+  "quickAnswer": "Use 'speak' for formal situations or one-way communication; use 'talk' for informal conversations.",
+  "coreDifference": "Speak is often used for formal or one-way communication, while talk is used for informal two-way conversations.",
+  "englishExplanation": "Both 'speak' and 'talk' mean to say words. However, 'speak' is often more formal. You might 'speak' at a conference or 'speak' a language. 'Talk' is more casual and usually implies a conversation with someone. For example, you 'talk' with friends. Also, 'speak' can be one-way (like a speech), while 'talk' is usually two-way.",
+  "wordDetails": [
+    {
+      "word": "speak",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to say words, often in a formal way",
+      "commonPatterns": [
+        "speak to someone",
+        "speak about something",
+        "speak a language"
+      ]
+    },
+    {
+      "word": "talk",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to have a conversation",
+      "commonPatterns": [
+        "talk to someone",
+        "talk about something",
+        "talk with someone"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "speak",
+      "sentence": "She will speak at the conference tomorrow.",
+      "note": "Formal setting."
+    },
+    {
+      "word": "speak",
+      "sentence": "He speaks three languages fluently.",
+      "note": "Ability to use a language."
+    },
+    {
+      "word": "speak",
+      "sentence": "Can I speak to the manager, please?",
+      "note": "Polite request."
+    },
+    {
+      "word": "talk",
+      "sentence": "We talked for hours about our childhood.",
+      "note": "Casual conversation."
+    },
+    {
+      "word": "talk",
+      "sentence": "I need to talk to you about something important.",
+      "note": "Informal discussion."
+    },
+    {
+      "word": "talk",
+      "sentence": "They are talking in the kitchen.",
+      "note": "Everyday conversation."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "speak-vs-talk-1",
+      "question": "He can ___ English very well.",
+      "options": [
+        "speak",
+        "talk"
+      ],
+      "answer": "speak",
+      "explanation": "We use speak for languages."
+    },
+    {
+      "id": "speak-vs-talk-2",
+      "question": "She will ___ at the conference tomorrow.",
+      "options": [
+        "speak",
+        "talk"
+      ],
+      "answer": "speak",
+      "explanation": "Speak is natural for formal events or presentations."
+    },
+    {
+      "id": "speak-vs-talk-3",
+      "question": "We ___ for hours after dinner.",
+      "options": [
+        "spoke",
+        "talked"
+      ],
+      "answer": "talked",
+      "explanation": "Talk is natural for an informal conversation."
+    },
+    {
+      "id": "speak-vs-talk-4",
+      "question": "Can I ___ to the manager, please?",
+      "options": [
+        "speak",
+        "talk"
+      ],
+      "answer": "speak",
+      "explanation": "Speak is natural in polite or formal requests."
+    },
+    {
+      "id": "speak-vs-talk-5",
+      "question": "I like to ___ with my friends after class.",
+      "options": [
+        "speak",
+        "talk"
+      ],
+      "answer": "talk",
+      "explanation": "Talk is natural for casual conversations."
+    }
+  ],
+  "relatedSlugs": [
+    "say-vs-tell",
+    "look-vs-see-vs-watch",
+    "hear-vs-listen"
+  ],
+  "seo": {
+    "title": "Speak vs Talk: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between speak and talk with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/speak-vs-talk",
+    "keywords": [
+      "speak vs talk",
+      "speak or talk",
+      "English confusing words"
+    ]
+  }
+}

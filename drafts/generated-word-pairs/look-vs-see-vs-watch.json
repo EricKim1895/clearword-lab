@@ -1,0 +1,155 @@
+{
+  "slug": "look-vs-see-vs-watch",
+  "title": "Look vs See vs Watch",
+  "words": [
+    "look",
+    "see",
+    "watch"
+  ],
+  "level": "A2",
+  "category": "verbs",
+  "tags": [
+    "confusing verbs",
+    "perception verbs"
+  ],
+  "shortSummary": "Look is active and intentional, see is passive and automatic, watch is for paying attention over time.",
+  "quickAnswer": "Use 'look' when you direct your eyes, 'see' when you notice something without trying, and 'watch' when you pay attention to something over time.",
+  "coreDifference": "Look is intentional, see is automatic, watch is sustained attention.",
+  "englishExplanation": "Look, see, and watch are all about using your eyes, but they are used in different situations. 'Look' means you move your eyes to see something. It is active and you choose to do it. 'See' means something comes into your eyes without trying. It is passive. 'Watch' means you look at something for a period of time, usually because it is interesting or changing.",
+  "wordDetails": [
+    {
+      "word": "look",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to direct your eyes at something",
+      "commonPatterns": [
+        "look at something",
+        "look for something",
+        "look + adjective"
+      ]
+    },
+    {
+      "word": "see",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to notice or become aware of something with your eyes",
+      "commonPatterns": [
+        "see something",
+        "see that",
+        "can see"
+      ]
+    },
+    {
+      "word": "watch",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to look at something for a period of time, especially something that changes or moves",
+      "commonPatterns": [
+        "watch something",
+        "watch TV",
+        "watch a movie"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "look",
+      "sentence": "Look at that beautiful sunset!",
+      "note": "Active, intentional."
+    },
+    {
+      "word": "look",
+      "sentence": "She looked for her keys everywhere.",
+      "note": "Searching."
+    },
+    {
+      "word": "see",
+      "sentence": "I can see a bird in the tree.",
+      "note": "Automatic, not trying."
+    },
+    {
+      "word": "see",
+      "sentence": "Did you see the news this morning?",
+      "note": "Notice."
+    },
+    {
+      "word": "watch",
+      "sentence": "We watched a movie last night.",
+      "note": "Sustained attention."
+    },
+    {
+      "word": "watch",
+      "sentence": "He watches the children play in the park.",
+      "note": "Observing over time."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "look-vs-see-vs-watch-1",
+      "question": "I can ___ a strange man outside the window.",
+      "options": [
+        "look",
+        "see",
+        "watch"
+      ],
+      "answer": "see",
+      "explanation": "See means notice something with your eyes."
+    },
+    {
+      "id": "look-vs-see-vs-watch-2",
+      "question": "Please ___ at the board.",
+      "options": [
+        "look",
+        "see",
+        "watch"
+      ],
+      "answer": "look",
+      "explanation": "You are asking someone to direct their eyes intentionally."
+    },
+    {
+      "id": "look-vs-see-vs-watch-3",
+      "question": "We ___ a football match on TV.",
+      "options": [
+        "look",
+        "see",
+        "watch"
+      ],
+      "answer": "watch",
+      "explanation": "You pay attention to the match over time."
+    },
+    {
+      "id": "look-vs-see-vs-watch-4",
+      "question": "I can't ___ anything without my glasses.",
+      "options": [
+        "look",
+        "see",
+        "watch"
+      ],
+      "answer": "see",
+      "explanation": "This is about the ability to perceive, not an intentional action."
+    },
+    {
+      "id": "look-vs-see-vs-watch-5",
+      "question": "She ___ at herself in the mirror.",
+      "options": [
+        "looked",
+        "saw",
+        "watched"
+      ],
+      "answer": "looked",
+      "explanation": "She intentionally directed her eyes at herself."
+    }
+  ],
+  "relatedSlugs": [
+    "hear-vs-listen",
+    "say-vs-tell",
+    "speak-vs-talk"
+  ],
+  "seo": {
+    "title": "Look vs See vs Watch: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between look, see, and watch with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/look-vs-see-vs-watch",
+    "keywords": [
+      "look vs see vs watch",
+      "look see watch difference",
+      "English confusing verbs"
+    ]
+  }
+}

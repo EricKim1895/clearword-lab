@@ -1,0 +1,137 @@
+{
+  "slug": "bring-vs-take",
+  "title": "Bring vs Take",
+  "words": [
+    "bring",
+    "take"
+  ],
+  "level": "A2",
+  "category": "verbs",
+  "tags": [
+    "direction verbs",
+    "movement"
+  ],
+  "shortSummary": "Use 'bring' for movement toward the speaker, and 'take' for movement away.",
+  "quickAnswer": "Use bring when something moves toward the speaker or the place being discussed. Use take when something moves away to another place.",
+  "coreDifference": "Bring focuses on movement toward the speaker or a shared destination. Take focuses on movement away to another place.",
+  "englishExplanation": "The main difference is direction. Use 'bring' when you move something to the place where the speaker is. Use 'take' when you move something away from the speaker to another place. For example, if you are at a party, you might say 'Please bring some snacks' (to the party). But if you leave, you say 'I will take the leftovers home.'",
+  "wordDetails": [
+    {
+      "word": "bring",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to carry something to the place where the speaker is",
+      "commonPatterns": [
+        "bring something to someone",
+        "bring something with you"
+      ]
+    },
+    {
+      "word": "take",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to carry something away from the speaker to another place",
+      "commonPatterns": [
+        "take something to someone",
+        "take something with you"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "bring",
+      "sentence": "Can you bring me a glass of water?",
+      "note": "The speaker is here, so water comes to the speaker."
+    },
+    {
+      "word": "take",
+      "sentence": "Please take this book to the library.",
+      "note": "The book goes away from the speaker to the library."
+    },
+    {
+      "word": "bring",
+      "sentence": "Don't forget to bring your passport when you come.",
+      "note": "The passport comes with you to the speaker's location."
+    },
+    {
+      "word": "take",
+      "sentence": "I will take the kids to school every morning.",
+      "note": "The kids go away from the speaker to school."
+    },
+    {
+      "word": "bring",
+      "sentence": "She brought a cake to the party.",
+      "note": "The cake came to the party where the speaker was."
+    },
+    {
+      "word": "take",
+      "sentence": "He took his camera on the trip.",
+      "note": "The camera went away with him on the trip."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "bring-vs-take-1",
+      "question": "I'm at home. My friend is coming over. I say: 'Please ______ some pizza.'",
+      "options": [
+        "bring",
+        "take"
+      ],
+      "answer": "bring",
+      "explanation": "The pizza comes to my home, so use 'bring'."
+    },
+    {
+      "id": "bring-vs-take-2",
+      "question": "I'm leaving the office. I say: 'I need to ______ these files to the meeting.'",
+      "options": [
+        "bring",
+        "take"
+      ],
+      "answer": "take",
+      "explanation": "I am moving the files away from the office to the meeting, so use 'take'."
+    },
+    {
+      "id": "bring-vs-take-3",
+      "question": "You are at a restaurant. You ask the waiter: 'Could you ______ me the menu?'",
+      "options": [
+        "bring",
+        "take"
+      ],
+      "answer": "bring",
+      "explanation": "The menu comes to you, so use 'bring'."
+    },
+    {
+      "id": "bring-vs-take-4",
+      "question": "I am leaving now. I will ___ these sandwiches to my brother's house.",
+      "options": [
+        "bring",
+        "take"
+      ],
+      "answer": "take",
+      "explanation": "The sandwiches move away with the speaker to another place, so use take."
+    },
+    {
+      "id": "bring-vs-take-5",
+      "question": "When you visit me, please ______ your dog.",
+      "options": [
+        "bring",
+        "take"
+      ],
+      "answer": "bring",
+      "explanation": "The dog comes with you to my place, so use 'bring'."
+    }
+  ],
+  "relatedSlugs": [
+    "borrow-vs-lend",
+    "say-vs-tell",
+    "speak-vs-talk"
+  ],
+  "seo": {
+    "title": "Bring vs Take: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between bring and take with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/bring-vs-take",
+    "keywords": [
+      "bring vs take",
+      "bring or take",
+      "English confusing words"
+    ]
+  }
+}

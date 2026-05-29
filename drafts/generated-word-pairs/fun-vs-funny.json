@@ -1,0 +1,139 @@
+{
+  "slug": "fun-vs-funny",
+  "title": "Fun vs Funny",
+  "words": [
+    "fun",
+    "funny"
+  ],
+  "level": "A2",
+  "category": "adjectives",
+  "tags": [
+    "confusing adjectives",
+    "emotions"
+  ],
+  "shortSummary": "Fun means enjoyable, funny means it makes you laugh.",
+  "quickAnswer": "Use 'fun' for something that is enjoyable or entertaining. Use 'funny' for something that makes you laugh or is humorous.",
+  "coreDifference": "Fun is about enjoyment, funny is about humor.",
+  "englishExplanation": "Fun and funny are both adjectives, but they describe different things. 'Fun' describes an experience that is enjoyable, like a party or a game. 'Funny' describes something that makes you laugh, like a joke or a comedian. A movie can be fun (enjoyable) or funny (humorous), or both.",
+  "wordDetails": [
+    {
+      "word": "fun",
+      "partOfSpeech": "adjective",
+      "simpleMeaning": "enjoyable or entertaining",
+      "commonPatterns": [
+        "have fun",
+        "a fun time",
+        "it is fun"
+      ]
+    },
+    {
+      "word": "funny",
+      "partOfSpeech": "adjective",
+      "simpleMeaning": "causing laughter or amusement",
+      "commonPatterns": [
+        "a funny story",
+        "funny joke",
+        "it is funny"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "fun",
+      "sentence": "We had a fun day at the beach.",
+      "note": "Enjoyable."
+    },
+    {
+      "word": "fun",
+      "sentence": "The game was really fun.",
+      "note": "Entertaining."
+    },
+    {
+      "word": "funny",
+      "sentence": "He told a funny joke.",
+      "note": "Made people laugh."
+    },
+    {
+      "word": "funny",
+      "sentence": "That movie was so funny!",
+      "note": "Humorous."
+    },
+    {
+      "word": "fun",
+      "sentence": "It's fun to learn new things.",
+      "note": "Enjoyable activity."
+    },
+    {
+      "word": "funny",
+      "sentence": "The video was funny, and everyone laughed.",
+      "note": "Funny means humorous here."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "fun-vs-funny-1",
+      "question": "The roller coaster was ___.",
+      "options": [
+        "fun",
+        "funny"
+      ],
+      "answer": "fun",
+      "explanation": "Roller coasters are exciting and enjoyable, not necessarily humorous."
+    },
+    {
+      "id": "fun-vs-funny-2",
+      "question": "My grandfather tells ___ stories.",
+      "options": [
+        "fun",
+        "funny"
+      ],
+      "answer": "funny",
+      "explanation": "Stories that make you laugh are funny."
+    },
+    {
+      "id": "fun-vs-funny-3",
+      "question": "We always have ___ at the carnival.",
+      "options": [
+        "fun",
+        "funny"
+      ],
+      "answer": "fun",
+      "explanation": "Have fun means enjoy yourself."
+    },
+    {
+      "id": "fun-vs-funny-4",
+      "question": "The comedian was very ___.",
+      "options": [
+        "fun",
+        "funny"
+      ],
+      "answer": "funny",
+      "explanation": "Comedians make people laugh, so they are funny."
+    },
+    {
+      "id": "fun-vs-funny-5",
+      "question": "Learning English can be ___.",
+      "options": [
+        "fun",
+        "funny"
+      ],
+      "answer": "fun",
+      "explanation": "Learning is enjoyable, not necessarily humorous."
+    }
+  ],
+  "relatedSlugs": [
+    "alone-vs-lonely",
+    "sensible-vs-sensitive",
+    "affect-vs-effect"
+  ],
+  "seo": {
+    "title": "Fun vs Funny: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between fun and funny with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/fun-vs-funny",
+    "keywords": [
+      "fun vs funny",
+      "fun or funny",
+      "English confusing adjectives"
+    ]
+  }
+}

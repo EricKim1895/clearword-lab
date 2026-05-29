@@ -1,0 +1,139 @@
+{
+  "slug": "beside-vs-besides",
+  "title": "Beside vs Besides",
+  "words": [
+    "beside",
+    "besides"
+  ],
+  "level": "A2",
+  "category": "prepositions",
+  "tags": [
+    "prepositions",
+    "addition"
+  ],
+  "shortSummary": "Beside means next to someone or something. Besides means in addition to something.",
+  "quickAnswer": "Use beside for position: next to. Use besides when you add another point, meaning in addition or also.",
+  "coreDifference": "Beside is about location. Besides adds extra information.",
+  "englishExplanation": "Beside usually means next to a person or thing. For example, your phone can be beside your laptop. Besides is used when you add another idea or item. For example, besides English, someone may also speak Spanish.",
+  "wordDetails": [
+    {
+      "word": "beside",
+      "partOfSpeech": "preposition",
+      "simpleMeaning": "next to",
+      "commonPatterns": [
+        "beside someone/something",
+        "stand beside",
+        "sit beside"
+      ]
+    },
+    {
+      "word": "besides",
+      "partOfSpeech": "preposition/adverb",
+      "simpleMeaning": "in addition to; also; anyway",
+      "commonPatterns": [
+        "besides something",
+        "besides, ...",
+        "besides that"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "beside",
+      "sentence": "The cat is sleeping beside the fireplace.",
+      "note": "Location: next to the fireplace."
+    },
+    {
+      "word": "besides",
+      "sentence": "Besides math, he also teaches science.",
+      "note": "Addition: in addition to math."
+    },
+    {
+      "word": "beside",
+      "sentence": "Come and sit beside me.",
+      "note": "Location: next to me."
+    },
+    {
+      "word": "besides",
+      "sentence": "I don't like that restaurant. Besides, it's too expensive.",
+      "note": "Adverb: giving another reason."
+    },
+    {
+      "word": "beside",
+      "sentence": "The school is beside the park.",
+      "note": "Location: next to the park."
+    },
+    {
+      "word": "besides",
+      "sentence": "Besides English, she speaks French and German.",
+      "note": "Besides adds another language."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "beside-vs-besides-1",
+      "question": "The chair is ___ the desk.",
+      "options": [
+        "beside",
+        "besides"
+      ],
+      "answer": "beside",
+      "explanation": "Beside means next to."
+    },
+    {
+      "id": "beside-vs-besides-2",
+      "question": "___ English, she also speaks Spanish.",
+      "options": [
+        "beside",
+        "besides"
+      ],
+      "answer": "besides",
+      "explanation": "Besides means in addition to."
+    },
+    {
+      "id": "beside-vs-besides-3",
+      "question": "Come and sit ___ me.",
+      "options": [
+        "beside",
+        "besides"
+      ],
+      "answer": "beside",
+      "explanation": "Beside means next to a person or thing."
+    },
+    {
+      "id": "beside-vs-besides-4",
+      "question": "___ his job, he studies at night.",
+      "options": [
+        "beside",
+        "besides"
+      ],
+      "answer": "besides",
+      "explanation": "Besides means in addition to another thing."
+    },
+    {
+      "id": "beside-vs-besides-5",
+      "question": "The keys are ___ my phone.",
+      "options": [
+        "beside",
+        "besides"
+      ],
+      "answer": "beside",
+      "explanation": "Beside means next to."
+    }
+  ],
+  "relatedSlugs": [
+    "since-vs-for",
+    "affect-vs-effect",
+    "job-vs-work"
+  ],
+  "seo": {
+    "title": "Beside vs Besides: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between beside and besides with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/beside-vs-besides",
+    "keywords": [
+      "beside vs besides",
+      "beside or besides",
+      "English confusing words"
+    ]
+  }
+}

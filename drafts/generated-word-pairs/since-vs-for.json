@@ -1,0 +1,136 @@
+{
+  "slug": "since-vs-for",
+  "title": "Since vs For",
+  "words": [
+    "since",
+    "for"
+  ],
+  "level": "A2",
+  "category": "prepositions",
+  "tags": [
+    "time expressions",
+    "prepositions"
+  ],
+  "shortSummary": "Since is for a starting point; for is for a duration.",
+  "quickAnswer": "Use 'since' with a specific point in time (e.g., Monday, 2020). Use 'for' with a period of time (e.g., two hours, five years).",
+  "coreDifference": "Since indicates the start of a period; for indicates the length of a period.",
+  "englishExplanation": "Since and for are used to talk about time, especially with perfect tenses. 'Since' tells us when something started. It is followed by a specific time or event, like 'since 2010' or 'since I was a child'. 'For' tells us how long something lasts. It is followed by a duration, like 'for three years' or 'for a long time'.",
+  "wordDetails": [
+    {
+      "word": "since",
+      "partOfSpeech": "preposition",
+      "simpleMeaning": "from a specific time in the past until now",
+      "commonPatterns": [
+        "since + point in time",
+        "since + clause"
+      ]
+    },
+    {
+      "word": "for",
+      "partOfSpeech": "preposition",
+      "simpleMeaning": "indicating a period of time",
+      "commonPatterns": [
+        "for + duration"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "since",
+      "sentence": "I have lived here since 2015.",
+      "note": "Starting point."
+    },
+    {
+      "word": "since",
+      "sentence": "She has been sleeping since 10 p.m.",
+      "note": "Specific time."
+    },
+    {
+      "word": "for",
+      "sentence": "I have lived here for eight years.",
+      "note": "Duration."
+    },
+    {
+      "word": "for",
+      "sentence": "He studied for three hours.",
+      "note": "Length of time."
+    },
+    {
+      "word": "since",
+      "sentence": "We have known each other since we were kids.",
+      "note": "Starting event."
+    },
+    {
+      "word": "for",
+      "sentence": "They have been married for 20 years.",
+      "note": "Duration."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "since-vs-for-1",
+      "question": "I have known her ___ 2018.",
+      "options": [
+        "since",
+        "for"
+      ],
+      "answer": "since",
+      "explanation": "2018 is a specific year, a starting point."
+    },
+    {
+      "id": "since-vs-for-2",
+      "question": "He has been a teacher ___ ten years.",
+      "options": [
+        "since",
+        "for"
+      ],
+      "answer": "for",
+      "explanation": "Ten years is a duration."
+    },
+    {
+      "id": "since-vs-for-3",
+      "question": "They have been married ___ last June.",
+      "options": [
+        "since",
+        "for"
+      ],
+      "answer": "since",
+      "explanation": "Last June is a specific point in time."
+    },
+    {
+      "id": "since-vs-for-4",
+      "question": "We waited ___ an hour.",
+      "options": [
+        "since",
+        "for"
+      ],
+      "answer": "for",
+      "explanation": "An hour is a duration."
+    },
+    {
+      "id": "since-vs-for-5",
+      "question": "I haven't eaten ___ breakfast.",
+      "options": [
+        "since",
+        "for"
+      ],
+      "answer": "since",
+      "explanation": "Breakfast is a specific meal time, a starting point."
+    }
+  ],
+  "relatedSlugs": [
+    "fewer-vs-less",
+    "bring-vs-take",
+    "remember-vs-remind"
+  ],
+  "seo": {
+    "title": "Since vs For: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between since and for with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/since-vs-for",
+    "keywords": [
+      "since vs for",
+      "since or for",
+      "English prepositions time"
+    ]
+  }
+}

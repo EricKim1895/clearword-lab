@@ -1,0 +1,139 @@
+{
+  "slug": "fewer-vs-less",
+  "title": "Fewer vs Less",
+  "words": [
+    "fewer",
+    "less"
+  ],
+  "level": "B1",
+  "category": "adjectives",
+  "tags": [
+    "quantity",
+    "countable vs uncountable"
+  ],
+  "shortSummary": "Use 'fewer' for countable things and 'less' for uncountable things.",
+  "quickAnswer": "Fewer = for things you can count (e.g., fewer apples). Less = for things you can't count (e.g., less water).",
+  "coreDifference": "Fewer is used with countable nouns; less is used with uncountable nouns.",
+  "englishExplanation": "Use fewer with countable plural nouns, such as fewer books or fewer people. Use less with uncountable nouns, such as less water or less time. In everyday English, you may see less with numbers, money, distance, or time. For clear learner English, use fewer with countable plural nouns and less with uncountable nouns.",
+  "wordDetails": [
+    {
+      "word": "fewer",
+      "partOfSpeech": "determiner",
+      "simpleMeaning": "a smaller number of (countable things)",
+      "commonPatterns": [
+        "fewer than",
+        "fewer people",
+        "fewer opportunities"
+      ]
+    },
+    {
+      "word": "less",
+      "partOfSpeech": "determiner",
+      "simpleMeaning": "a smaller amount of (uncountable things)",
+      "commonPatterns": [
+        "less than",
+        "less time",
+        "less money"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "fewer",
+      "sentence": "There are fewer students in class today.",
+      "note": "Students are countable."
+    },
+    {
+      "word": "less",
+      "sentence": "I have less homework this weekend.",
+      "note": "Homework is uncountable."
+    },
+    {
+      "word": "fewer",
+      "sentence": "She made fewer mistakes on the test.",
+      "note": "Mistakes are countable."
+    },
+    {
+      "word": "less",
+      "sentence": "We need less sugar in this recipe.",
+      "note": "Sugar is uncountable."
+    },
+    {
+      "word": "fewer",
+      "sentence": "He has fewer friends than his sister.",
+      "note": "Friends are countable."
+    },
+    {
+      "word": "less",
+      "sentence": "I want to spend less time on my phone.",
+      "note": "Time is uncountable."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "fewer-vs-less-1",
+      "question": "I have ______ money than I thought.",
+      "options": [
+        "fewer",
+        "less"
+      ],
+      "answer": "less",
+      "explanation": "Money is uncountable, so use 'less'."
+    },
+    {
+      "id": "fewer-vs-less-2",
+      "question": "She has ______ dresses than her sister.",
+      "options": [
+        "fewer",
+        "less"
+      ],
+      "answer": "fewer",
+      "explanation": "Dresses are countable, so use 'fewer'."
+    },
+    {
+      "id": "fewer-vs-less-3",
+      "question": "We should eat ______ junk food.",
+      "options": [
+        "fewer",
+        "less"
+      ],
+      "answer": "less",
+      "explanation": "Junk food is uncountable, so use 'less'."
+    },
+    {
+      "id": "fewer-vs-less-4",
+      "question": "There are ______ cars on the road today.",
+      "options": [
+        "fewer",
+        "less"
+      ],
+      "answer": "fewer",
+      "explanation": "Cars are countable, so use 'fewer'."
+    },
+    {
+      "id": "fewer-vs-less-5",
+      "question": "I need ______ help with my homework.",
+      "options": [
+        "fewer",
+        "less"
+      ],
+      "answer": "less",
+      "explanation": "Help is uncountable, so use 'less'."
+    }
+  ],
+  "relatedSlugs": [
+    "affect-vs-effect",
+    "fun-vs-funny",
+    "since-vs-for"
+  ],
+  "seo": {
+    "title": "Fewer vs Less: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between fewer and less with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/fewer-vs-less",
+    "keywords": [
+      "fewer vs less",
+      "fewer or less",
+      "English confusing words"
+    ]
+  }
+}

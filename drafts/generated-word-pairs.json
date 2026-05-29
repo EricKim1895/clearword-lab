@@ -1,0 +1,2950 @@
+[
+  {
+    "slug": "speak-vs-talk",
+    "title": "Speak vs Talk",
+    "words": [
+      "speak",
+      "talk"
+    ],
+    "level": "A2",
+    "category": "verbs",
+    "tags": [
+      "communication",
+      "verbs"
+    ],
+    "shortSummary": "Speak is more formal or one-way; talk is more informal and conversational.",
+    "quickAnswer": "Use 'speak' for formal situations or one-way communication; use 'talk' for informal conversations.",
+    "coreDifference": "Speak often implies a formal or one-way exchange, while talk suggests a two-way, informal conversation.",
+    "englishExplanation": "Both 'speak' and 'talk' mean to say words, but they are used in different contexts. 'Speak' is often used in formal situations, like giving a speech or talking to a large group. It can also be one-way, like when someone speaks to you. 'Talk' is more common in everyday conversation and usually implies two or more people sharing ideas. For example, you 'speak' at a conference, but you 'talk' with friends.",
+    "nativeLanguageNotes": {
+      "zh": "Speak 更正式，常指单向交流；talk 更随意，指双向对话。"
+    },
+    "wordDetails": [
+      {
+        "word": "speak",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to say words, often in a formal or one-way way",
+        "commonPatterns": [
+          "speak to someone",
+          "speak about something",
+          "speak a language"
+        ]
+      },
+      {
+        "word": "talk",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to have a conversation with someone",
+        "commonPatterns": [
+          "talk to someone",
+          "talk about something",
+          "talk with someone"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "speak",
+        "sentence": "The president will speak to the nation tonight.",
+        "note": "Formal, one-way communication."
+      },
+      {
+        "word": "speak",
+        "sentence": "She speaks three languages fluently.",
+        "note": "Ability to use a language."
+      },
+      {
+        "word": "speak",
+        "sentence": "Please speak more slowly; I can't understand you.",
+        "note": "Request for clearer speech."
+      },
+      {
+        "word": "talk",
+        "sentence": "We talked for hours about our childhood.",
+        "note": "Informal, two-way conversation."
+      },
+      {
+        "word": "talk",
+        "sentence": "Can we talk after the meeting?",
+        "note": "Suggesting a conversation."
+      },
+      {
+        "word": "talk",
+        "sentence": "The kids are talking too loudly in the library.",
+        "note": "Everyday conversation."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I need to speak with my boss about my schedule.",
+        "correct": "I need to talk with my boss about my schedule.",
+        "explanation": "With a colleague, 'talk' is more natural for a casual discussion."
+      },
+      {
+        "wrong": "He talked at the conference for an hour.",
+        "correct": "He spoke at the conference for an hour.",
+        "explanation": "For formal presentations, 'speak' is better."
+      },
+      {
+        "wrong": "Can you talk English?",
+        "correct": "Can you speak English?",
+        "explanation": "Use 'speak' for languages."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "speak-vs-talk-1",
+        "question": "Which word fits best? 'The professor will ______ about climate change.'",
+        "options": [
+          "speak",
+          "talk"
+        ],
+        "answer": "speak",
+        "explanation": "A professor giving a lecture is a formal situation, so 'speak' is appropriate."
+      },
+      {
+        "id": "speak-vs-talk-2",
+        "question": "Which word fits best? 'Let's ______ about our weekend plans.'",
+        "options": [
+          "speak",
+          "talk"
+        ],
+        "answer": "talk",
+        "explanation": "Discussing weekend plans is an informal conversation, so 'talk' is natural."
+      },
+      {
+        "id": "speak-vs-talk-3",
+        "question": "Which word fits best? 'She can ______ three languages.'",
+        "options": [
+          "speak",
+          "talk"
+        ],
+        "answer": "speak",
+        "explanation": "We use 'speak' for languages."
+      },
+      {
+        "id": "speak-vs-talk-4",
+        "question": "Which word fits best? 'I need to ______ to you about something important.'",
+        "options": [
+          "speak",
+          "talk"
+        ],
+        "answer": "talk",
+        "explanation": "Both are possible, but 'talk' is more common in everyday conversation."
+      },
+      {
+        "id": "speak-vs-talk-5",
+        "question": "Which word fits best? 'The manager will ______ at the staff meeting.'",
+        "options": [
+          "speak",
+          "talk"
+        ],
+        "answer": "speak",
+        "explanation": "A manager addressing staff is a formal setting, so 'speak' is better."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can I use 'speak' and 'talk' interchangeably?",
+        "answer": "Not always. 'Speak' is more formal and often one-way; 'talk' is informal and two-way. But in some cases, both are possible, like 'I need to speak/talk to you.'"
+      }
+    ],
+    "relatedSlugs": [
+      "say-vs-tell",
+      "look-vs-see-vs-watch",
+      "hear-vs-listen"
+    ],
+    "seo": {
+      "title": "Speak vs Talk: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between speak and talk with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/speak-vs-talk",
+      "keywords": [
+        "speak vs talk",
+        "speak or talk",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "affect-vs-effect",
+    "title": "Affect vs Effect",
+    "words": [
+      "affect",
+      "effect"
+    ],
+    "level": "B1",
+    "category": "verbs",
+    "tags": [
+      "common mistakes",
+      "verbs",
+      "nouns"
+    ],
+    "shortSummary": "Affect is usually a verb meaning to influence; effect is usually a noun meaning a result.",
+    "quickAnswer": "Use 'affect' as a verb (to influence) and 'effect' as a noun (the result).",
+    "coreDifference": "Affect is an action (verb) that causes a change; effect is the outcome (noun) of that change.",
+    "englishExplanation": "The words 'affect' and 'effect' sound similar but have different roles. 'Affect' is most often a verb meaning 'to influence or change something.' For example, 'The weather affects my mood.' 'Effect' is most often a noun meaning 'a result or consequence.' For example, 'The medicine had a positive effect.' A helpful trick: think of 'affect' as an action (both start with 'a') and 'effect' as an end result (both start with 'e').",
+    "nativeLanguageNotes": {
+      "zh": "Affect 通常是动词，表示影响；effect 通常是名词，表示结果。"
+    },
+    "wordDetails": [
+      {
+        "word": "affect",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to influence or change something",
+        "commonPatterns": [
+          "affect something",
+          "be affected by something"
+        ]
+      },
+      {
+        "word": "effect",
+        "partOfSpeech": "noun",
+        "simpleMeaning": "a change that is a result of something",
+        "commonPatterns": [
+          "have an effect on",
+          "the effect of something"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "affect",
+        "sentence": "Lack of sleep can affect your concentration.",
+        "note": "Verb meaning 'influence'."
+      },
+      {
+        "word": "affect",
+        "sentence": "The new policy will affect all employees.",
+        "note": "Verb meaning 'change'."
+      },
+      {
+        "word": "affect",
+        "sentence": "How does stress affect your health?",
+        "note": "Verb in a question."
+      },
+      {
+        "word": "effect",
+        "sentence": "The effect of the rain was flooding.",
+        "note": "Noun meaning 'result'."
+      },
+      {
+        "word": "effect",
+        "sentence": "This medicine has few side effects.",
+        "note": "Noun meaning 'consequences'."
+      },
+      {
+        "word": "effect",
+        "sentence": "The new law had a positive effect on the economy.",
+        "note": "Noun with 'on'."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "The weather effects my mood.",
+        "correct": "The weather affects my mood.",
+        "explanation": "Here you need a verb (affect), not a noun."
+      },
+      {
+        "wrong": "The medicine had a positive affect.",
+        "correct": "The medicine had a positive effect.",
+        "explanation": "After 'a', you need a noun (effect)."
+      },
+      {
+        "wrong": "This will effect the outcome.",
+        "correct": "This will affect the outcome.",
+        "explanation": "As a verb, use 'affect'."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "affect-vs-effect-1",
+        "question": "Which word fits best? 'The new rules will ______ everyone.'",
+        "options": [
+          "affect",
+          "effect"
+        ],
+        "answer": "affect",
+        "explanation": "We need a verb meaning 'influence'."
+      },
+      {
+        "id": "affect-vs-effect-2",
+        "question": "Which word fits best? 'The ______ of the storm was devastating.'",
+        "options": [
+          "affect",
+          "effect"
+        ],
+        "answer": "effect",
+        "explanation": "We need a noun meaning 'result'."
+      },
+      {
+        "id": "affect-vs-effect-3",
+        "question": "Which word fits best? 'Does caffeine ______ your sleep?'",
+        "options": [
+          "affect",
+          "effect"
+        ],
+        "answer": "affect",
+        "explanation": "Verb needed."
+      },
+      {
+        "id": "affect-vs-effect-4",
+        "question": "Which word fits best? 'The new policy had a positive ______.'",
+        "options": [
+          "affect",
+          "effect"
+        ],
+        "answer": "effect",
+        "explanation": "After 'a', use noun."
+      },
+      {
+        "id": "affect-vs-effect-5",
+        "question": "Which word fits best? 'How will this decision ______ you?'",
+        "options": [
+          "affect",
+          "effect"
+        ],
+        "answer": "affect",
+        "explanation": "Verb needed."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'effect' ever be a verb?",
+        "answer": "Yes, but it's rare. 'Effect' as a verb means 'to cause something to happen,' like 'The new manager effected many changes.' But for everyday use, remember 'affect' is the verb."
+      }
+    ],
+    "relatedSlugs": [
+      "advice-vs-advise",
+      "fewer-vs-less",
+      "rise-vs-raise"
+    ],
+    "seo": {
+      "title": "Affect vs Effect: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between affect and effect with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/affect-vs-effect",
+      "keywords": [
+        "affect vs effect",
+        "affect or effect",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "job-vs-work",
+    "title": "Job vs Work",
+    "words": [
+      "job",
+      "work"
+    ],
+    "level": "A2",
+    "category": "nouns",
+    "tags": [
+      "career",
+      "nouns"
+    ],
+    "shortSummary": "A job is a specific position; work is the activity or effort you do.",
+    "quickAnswer": "Use 'job' for a specific role or position; use 'work' for the general activity or place where you do it.",
+    "coreDifference": "Job is countable and refers to a particular position; work is uncountable and refers to tasks or effort.",
+    "englishExplanation": "'Job' and 'work' are both related to earning money, but they are used differently. A 'job' is a specific position or role at a company. You can have a job as a teacher or a doctor. 'Job' is countable: you can say 'a job' or 'jobs.' 'Work' is the general activity of doing tasks, and it is uncountable. You can say 'I go to work' or 'I have work to do,' but not 'a work.' Also, 'work' can be a verb: 'I work at a hospital.'",
+    "nativeLanguageNotes": {
+      "zh": "Job 指具体职位，可数；work 指工作活动，不可数。"
+    },
+    "wordDetails": [
+      {
+        "word": "job",
+        "partOfSpeech": "noun",
+        "simpleMeaning": "a specific position of employment",
+        "commonPatterns": [
+          "get a job",
+          "lose a job",
+          "apply for a job"
+        ]
+      },
+      {
+        "word": "work",
+        "partOfSpeech": "noun",
+        "simpleMeaning": "the activity of doing tasks, especially for money",
+        "commonPatterns": [
+          "go to work",
+          "at work",
+          "hard work"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "job",
+        "sentence": "She found a job as a graphic designer.",
+        "note": "Specific position."
+      },
+      {
+        "word": "job",
+        "sentence": "He quit his job because he was unhappy.",
+        "note": "Countable noun."
+      },
+      {
+        "word": "job",
+        "sentence": "There are many jobs available in the city.",
+        "note": "Plural form."
+      },
+      {
+        "word": "work",
+        "sentence": "I have to finish my work before 5 PM.",
+        "note": "Uncountable tasks."
+      },
+      {
+        "word": "work",
+        "sentence": "She drives to work every morning.",
+        "note": "Place of employment."
+      },
+      {
+        "word": "work",
+        "sentence": "This project requires a lot of work.",
+        "note": "Effort."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I need to find a work.",
+        "correct": "I need to find a job.",
+        "explanation": "'Work' is uncountable; use 'a job' for a specific position."
+      },
+      {
+        "wrong": "She has two works.",
+        "correct": "She has two jobs.",
+        "explanation": "'Work' is uncountable; use 'jobs' for multiple positions."
+      },
+      {
+        "wrong": "I go to job every day.",
+        "correct": "I go to work every day.",
+        "explanation": "We say 'go to work' (the place/activity), not 'go to job'."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "job-vs-work-1",
+        "question": "Which word fits best? 'I'm looking for a ______ in marketing.'",
+        "options": [
+          "job",
+          "work"
+        ],
+        "answer": "job",
+        "explanation": "A specific position: 'a job'."
+      },
+      {
+        "id": "job-vs-work-2",
+        "question": "Which word fits best? 'I have a lot of ______ to do today.'",
+        "options": [
+          "job",
+          "work"
+        ],
+        "answer": "work",
+        "explanation": "Uncountable tasks: 'work'."
+      },
+      {
+        "id": "job-vs-work-3",
+        "question": "Which word fits best? 'She left her ______ to start a business.'",
+        "options": [
+          "job",
+          "work"
+        ],
+        "answer": "job",
+        "explanation": "Specific position: 'her job'."
+      },
+      {
+        "id": "job-vs-work-4",
+        "question": "Which word fits best? 'What time do you go to ______?'",
+        "options": [
+          "job",
+          "work"
+        ],
+        "answer": "work",
+        "explanation": "Fixed expression: 'go to work'."
+      },
+      {
+        "id": "job-vs-work-5",
+        "question": "Which word fits best? 'He applied for several ______.'",
+        "options": [
+          "jobs",
+          "works"
+        ],
+        "answer": "jobs",
+        "explanation": "Plural countable: 'jobs'."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'work' be a verb?",
+        "answer": "Yes! 'Work' is also a verb meaning to do a job or task. For example, 'I work in an office.'"
+      }
+    ],
+    "relatedSlugs": [
+      "make-vs-do",
+      "learn-vs-study",
+      "travel-vs-trip"
+    ],
+    "seo": {
+      "title": "Job vs Work: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between job and work with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/job-vs-work",
+      "keywords": [
+        "job vs work",
+        "job or work",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "hear-vs-listen",
+    "title": "Hear vs Listen",
+    "words": [
+      "hear",
+      "listen"
+    ],
+    "level": "A2",
+    "category": "verbs",
+    "tags": [
+      "senses",
+      "verbs"
+    ],
+    "shortSummary": "Hear is passive (sound enters your ears); listen is active (you pay attention).",
+    "quickAnswer": "Use 'hear' when sounds come to you without effort; use 'listen' when you focus on sounds.",
+    "coreDifference": "Hear is an involuntary action; listen is a deliberate action.",
+    "englishExplanation": "Both 'hear' and 'listen' relate to sound, but they are different. 'Hear' means that sound enters your ears without trying. For example, you can hear a car horn even if you are not paying attention. 'Listen' means you actively pay attention to a sound. For example, you listen to music or listen to a friend. You can hear something without listening, but you cannot listen without hearing.",
+    "nativeLanguageNotes": {
+      "zh": "Hear 是被动听到，listen 是主动倾听。"
+    },
+    "wordDetails": [
+      {
+        "word": "hear",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to receive sound with your ears, without effort",
+        "commonPatterns": [
+          "hear something",
+          "hear about something",
+          "hear from someone"
+        ]
+      },
+      {
+        "word": "listen",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to pay attention to sound",
+        "commonPatterns": [
+          "listen to something",
+          "listen carefully"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "hear",
+        "sentence": "I can hear the rain outside.",
+        "note": "Passive perception."
+      },
+      {
+        "word": "hear",
+        "sentence": "Did you hear what she said?",
+        "note": "Catching a sound."
+      },
+      {
+        "word": "hear",
+        "sentence": "I heard a strange noise last night.",
+        "note": "Unintentional."
+      },
+      {
+        "word": "listen",
+        "sentence": "Please listen to the instructions.",
+        "note": "Active attention."
+      },
+      {
+        "word": "listen",
+        "sentence": "She listens to podcasts every morning.",
+        "note": "Deliberate activity."
+      },
+      {
+        "word": "listen",
+        "sentence": "Listen! I think someone is coming.",
+        "note": "Command to pay attention."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I was hearing to music.",
+        "correct": "I was listening to music.",
+        "explanation": "Use 'listen to' for active attention."
+      },
+      {
+        "wrong": "Listen! Can you hear that bird?",
+        "correct": "Listen! Can you hear that bird?",
+        "explanation": "This is actually correct. 'Listen' is an active command, then 'hear' is passive perception."
+      },
+      {
+        "wrong": "I heard to the teacher.",
+        "correct": "I listened to the teacher.",
+        "explanation": "Use 'listen to' when paying attention."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "hear-vs-listen-1",
+        "question": "Which word fits best? 'I can ______ the baby crying.'",
+        "options": [
+          "hear",
+          "listen"
+        ],
+        "answer": "hear",
+        "explanation": "Passive perception of sound."
+      },
+      {
+        "id": "hear-vs-listen-2",
+        "question": "Which word fits best? 'Please ______ carefully to the announcement.'",
+        "options": [
+          "hear",
+          "listen"
+        ],
+        "answer": "listen",
+        "explanation": "Active attention required."
+      },
+      {
+        "id": "hear-vs-listen-3",
+        "question": "Which word fits best? 'Did you ______ the thunder last night?'",
+        "options": [
+          "hear",
+          "listen"
+        ],
+        "answer": "hear",
+        "explanation": "Passive experience."
+      },
+      {
+        "id": "hear-vs-listen-4",
+        "question": "Which word fits best? 'I like to ______ to jazz music.'",
+        "options": [
+          "hear",
+          "listen"
+        ],
+        "answer": "listen",
+        "explanation": "Active enjoyment."
+      },
+      {
+        "id": "hear-vs-listen-5",
+        "question": "Which word fits best? 'She didn't ______ the doorbell because she was wearing headphones.'",
+        "options": [
+          "hear",
+          "listen"
+        ],
+        "answer": "hear",
+        "explanation": "She didn't perceive the sound."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can I use 'hear' and 'listen' in the same sentence?",
+        "answer": "Yes! For example, 'I listened but I couldn't hear anything.' That means you paid attention but no sound came."
+      }
+    ],
+    "relatedSlugs": [
+      "look-vs-see-vs-watch",
+      "speak-vs-talk",
+      "learn-vs-study"
+    ],
+    "seo": {
+      "title": "Hear vs Listen: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between hear and listen with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/hear-vs-listen",
+      "keywords": [
+        "hear vs listen",
+        "hear or listen",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "look-vs-see-vs-watch",
+    "title": "Look vs See vs Watch",
+    "words": [
+      "look",
+      "see",
+      "watch"
+    ],
+    "level": "A2",
+    "category": "verbs",
+    "tags": [
+      "sight verbs",
+      "perception",
+      "attention"
+    ],
+    "shortSummary": "Look is active and intentional, see is passive and natural, watch is for paying attention over time.",
+    "quickAnswer": "Use 'look' when you direct your eyes, 'see' when you notice something without trying, and 'watch' when you pay attention to something over time.",
+    "coreDifference": "Look is intentional, see is unintentional, watch is intentional and continuous.",
+    "englishExplanation": "Look means you move your eyes to see something. It is an action you choose to do. See means your eyes receive visual information. It happens naturally, even if you are not trying. Watch means you pay attention to something for a period of time, like a movie or a game.",
+    "nativeLanguageNotes": {
+      "zh": "Look 是主动看，see 是自然看到，watch 是持续关注。"
+    },
+    "wordDetails": [
+      {
+        "word": "look",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to direct your eyes at something",
+        "commonPatterns": [
+          "look at",
+          "look for",
+          "look like"
+        ]
+      },
+      {
+        "word": "see",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to notice or become aware of with your eyes",
+        "commonPatterns": [
+          "see that",
+          "see if",
+          "see someone doing"
+        ]
+      },
+      {
+        "word": "watch",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to look at something for a period of time, especially with attention",
+        "commonPatterns": [
+          "watch TV",
+          "watch a movie",
+          "watch out"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "look",
+        "sentence": "Look at that beautiful sunset!",
+        "note": "Intentional action."
+      },
+      {
+        "word": "see",
+        "sentence": "I can see a bird in the tree.",
+        "note": "Natural ability, not effort."
+      },
+      {
+        "word": "watch",
+        "sentence": "We watched a movie last night.",
+        "note": "Paying attention over time."
+      },
+      {
+        "word": "look",
+        "sentence": "She looked for her keys everywhere.",
+        "note": "Searching intentionally."
+      },
+      {
+        "word": "see",
+        "sentence": "Did you see what happened?",
+        "note": "Passive observation."
+      },
+      {
+        "word": "watch",
+        "sentence": "He watches the news every evening.",
+        "note": "Regular attention."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I looked a movie yesterday.",
+        "correct": "I watched a movie yesterday.",
+        "explanation": "Use 'watch' for movies, not 'look'."
+      },
+      {
+        "wrong": "Can you watch that bird?",
+        "correct": "Can you see that bird?",
+        "explanation": "Use 'see' for noticing something, not 'watch'."
+      },
+      {
+        "wrong": "I am seeing at the picture.",
+        "correct": "I am looking at the picture.",
+        "explanation": "Use 'look at' for directing your eyes."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "look-vs-see-vs-watch-1",
+        "question": "You want your friend to notice a rainbow. What do you say?",
+        "options": [
+          "Look at the rainbow!",
+          "See the rainbow!",
+          "Watch the rainbow!"
+        ],
+        "answer": "Look at the rainbow!",
+        "explanation": "You are asking your friend to direct their eyes intentionally."
+      },
+      {
+        "id": "look-vs-see-vs-watch-2",
+        "question": "I accidentally saw my neighbor in the supermarket. Which verb describes this?",
+        "options": [
+          "look",
+          "see",
+          "watch"
+        ],
+        "answer": "see",
+        "explanation": "It happened without planning, so 'see' is correct."
+      },
+      {
+        "id": "look-vs-see-vs-watch-3",
+        "question": "What do you do when you pay attention to a football game for 90 minutes?",
+        "options": [
+          "look",
+          "see",
+          "watch"
+        ],
+        "answer": "watch",
+        "explanation": "You follow the game over time, so 'watch' is correct."
+      },
+      {
+        "id": "look-vs-see-vs-watch-4",
+        "question": "Which sentence is correct?",
+        "options": [
+          "I watched a beautiful bird in the garden.",
+          "I saw a beautiful bird in the garden.",
+          "I looked a beautiful bird in the garden."
+        ],
+        "answer": "I saw a beautiful bird in the garden.",
+        "explanation": "You noticed it naturally, so 'saw' is best."
+      },
+      {
+        "id": "look-vs-see-vs-watch-5",
+        "question": "Complete: 'Please ___ at the board.'",
+        "options": [
+          "look",
+          "see",
+          "watch"
+        ],
+        "answer": "look",
+        "explanation": "You are asking someone to direct their eyes."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can I use 'see' for movies?",
+        "answer": "Yes, you can say 'I saw a movie' to mean you experienced it, but 'watch' emphasizes the activity of paying attention."
+      },
+      {
+        "question": "What is the difference between 'look at' and 'watch'?",
+        "answer": "'Look at' is for a short moment, while 'watch' is for a longer time with attention."
+      }
+    ],
+    "relatedSlugs": [
+      "hear-vs-listen",
+      "say-vs-tell",
+      "speak-vs-talk"
+    ],
+    "seo": {
+      "title": "Look vs See vs Watch: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between look, see, and watch with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/look-vs-see-vs-watch",
+      "keywords": [
+        "look vs see vs watch",
+        "look or see",
+        "watch vs see",
+        "English confusing verbs"
+      ]
+    }
+  },
+  {
+    "slug": "fun-vs-funny",
+    "title": "Fun vs Funny",
+    "words": [
+      "fun",
+      "funny"
+    ],
+    "level": "A2",
+    "category": "adjectives",
+    "tags": [
+      "adjectives",
+      "emotions",
+      "humor"
+    ],
+    "shortSummary": "Fun means enjoyable, funny means amusing or causing laughter.",
+    "quickAnswer": "Use 'fun' for something that is enjoyable, and 'funny' for something that makes you laugh.",
+    "coreDifference": "Fun describes an experience that is pleasant, while funny describes something that causes laughter.",
+    "englishExplanation": "Fun is an adjective that means something is enjoyable or gives pleasure. For example, a party can be fun. Funny means something makes you laugh or smile. For example, a joke can be funny. Remember: a fun activity is good, but a funny activity is humorous.",
+    "nativeLanguageNotes": {
+      "zh": "Fun 表示有趣、好玩，funny 表示滑稽、好笑。"
+    },
+    "wordDetails": [
+      {
+        "word": "fun",
+        "partOfSpeech": "adjective",
+        "simpleMeaning": "enjoyable or entertaining",
+        "commonPatterns": [
+          "have fun",
+          "fun time",
+          "fun activity"
+        ]
+      },
+      {
+        "word": "funny",
+        "partOfSpeech": "adjective",
+        "simpleMeaning": "causing laughter or amusement",
+        "commonPatterns": [
+          "funny story",
+          "funny person",
+          "that's funny"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "fun",
+        "sentence": "The amusement park was so fun!",
+        "note": "Describes the enjoyable experience."
+      },
+      {
+        "word": "funny",
+        "sentence": "He told a funny joke and everyone laughed.",
+        "note": "Describes something that causes laughter."
+      },
+      {
+        "word": "fun",
+        "sentence": "We had a fun time at the beach.",
+        "note": "Enjoyable time."
+      },
+      {
+        "word": "funny",
+        "sentence": "That movie was really funny.",
+        "note": "The movie made people laugh."
+      },
+      {
+        "word": "fun",
+        "sentence": "Playing board games is fun.",
+        "note": "General enjoyment."
+      },
+      {
+        "word": "funny",
+        "sentence": "She has a funny way of walking.",
+        "note": "Amusing or odd."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "The party was very funny.",
+        "correct": "The party was very fun.",
+        "explanation": "Parties are enjoyable, not necessarily laugh-out-loud funny."
+      },
+      {
+        "wrong": "He is a fun person (meaning he makes people laugh).",
+        "correct": "He is a funny person.",
+        "explanation": "If he makes you laugh, use 'funny'. 'Fun person' means he is enjoyable to be with."
+      },
+      {
+        "wrong": "I had a funny time at the park.",
+        "correct": "I had a fun time at the park.",
+        "explanation": "A good time is 'fun', not 'funny'."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "fun-vs-funny-1",
+        "question": "Which word describes a comedy show that makes you laugh?",
+        "options": [
+          "fun",
+          "funny"
+        ],
+        "answer": "funny",
+        "explanation": "A comedy show is meant to be humorous."
+      },
+      {
+        "id": "fun-vs-funny-2",
+        "question": "Which word describes a day at the beach that you enjoyed?",
+        "options": [
+          "fun",
+          "funny"
+        ],
+        "answer": "fun",
+        "explanation": "The day was enjoyable, not necessarily laughable."
+      },
+      {
+        "id": "fun-vs-funny-3",
+        "question": "Complete: 'The roller coaster ride was ___!'",
+        "options": [
+          "fun",
+          "funny"
+        ],
+        "answer": "fun",
+        "explanation": "Roller coasters are exciting and enjoyable."
+      },
+      {
+        "id": "fun-vs-funny-4",
+        "question": "Complete: 'My grandfather tells ___ stories.'",
+        "options": [
+          "fun",
+          "funny"
+        ],
+        "answer": "funny",
+        "explanation": "Stories that make you laugh are funny."
+      },
+      {
+        "id": "fun-vs-funny-5",
+        "question": "Which sentence is correct?",
+        "options": [
+          "We had a funny time at the carnival.",
+          "We had a fun time at the carnival."
+        ],
+        "answer": "We had a fun time at the carnival.",
+        "explanation": "Carnivals are enjoyable, so 'fun' is correct."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'fun' be a noun?",
+        "answer": "Yes, 'fun' can also be a noun meaning enjoyment, e.g., 'We had fun.'"
+      },
+      {
+        "question": "Is 'funny' always positive?",
+        "answer": "Sometimes 'funny' can mean strange or odd, not necessarily laughable. For example, 'There's a funny smell.'"
+      }
+    ],
+    "relatedSlugs": [
+      "alone-vs-lonely",
+      "sensible-vs-sensitive",
+      "affect-vs-effect"
+    ],
+    "seo": {
+      "title": "Fun vs Funny: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between fun and funny with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/fun-vs-funny",
+      "keywords": [
+        "fun vs funny",
+        "fun or funny",
+        "English confusing adjectives"
+      ]
+    }
+  },
+  {
+    "slug": "rise-vs-raise",
+    "title": "Rise vs Raise",
+    "words": [
+      "rise",
+      "raise"
+    ],
+    "level": "B1",
+    "category": "verbs",
+    "tags": [
+      "transitive",
+      "intransitive",
+      "increase"
+    ],
+    "shortSummary": "Rise means to go up by itself; raise means to lift something up.",
+    "quickAnswer": "Use 'rise' when something moves up on its own, and 'raise' when someone or something lifts another thing.",
+    "coreDifference": "Rise is intransitive (no object), raise is transitive (needs an object).",
+    "englishExplanation": "Rise means to go upward or increase without help. For example, the sun rises. Raise means to lift something or make something go up. You always raise something. For example, you raise your hand. Remember: you raise something, but something rises.",
+    "nativeLanguageNotes": {
+      "zh": "Rise 是不及物动词，表示自己上升；raise 是及物动词，表示举起某物。"
+    },
+    "wordDetails": [
+      {
+        "word": "rise",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to go up or increase",
+        "commonPatterns": [
+          "rise up",
+          "rise from",
+          "rise to"
+        ]
+      },
+      {
+        "word": "raise",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to lift or move something to a higher position",
+        "commonPatterns": [
+          "raise your hand",
+          "raise a question",
+          "raise prices"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "rise",
+        "sentence": "The sun rises in the east.",
+        "note": "Natural movement."
+      },
+      {
+        "word": "raise",
+        "sentence": "Please raise your hand if you have a question.",
+        "note": "You lift your hand."
+      },
+      {
+        "word": "rise",
+        "sentence": "The temperature is rising.",
+        "note": "Increasing on its own."
+      },
+      {
+        "word": "raise",
+        "sentence": "The government raised taxes.",
+        "note": "Someone made taxes go up."
+      },
+      {
+        "word": "rise",
+        "sentence": "The bread dough will rise.",
+        "note": "It expands by itself."
+      },
+      {
+        "word": "raise",
+        "sentence": "She raised her voice so we could hear.",
+        "note": "She made her voice louder."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I rose my hand.",
+        "correct": "I raised my hand.",
+        "explanation": "You need an object with 'raise'. 'Rise' does not take an object."
+      },
+      {
+        "wrong": "The prices are raising.",
+        "correct": "The prices are rising.",
+        "explanation": "Prices go up on their own, so use 'rise'."
+      },
+      {
+        "wrong": "He raised from his chair.",
+        "correct": "He rose from his chair.",
+        "explanation": "He stood up by himself, so use 'rise'."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "rise-vs-raise-1",
+        "question": "Which verb is correct? 'The balloon ___ into the sky.'",
+        "options": [
+          "rose",
+          "raised"
+        ],
+        "answer": "rose",
+        "explanation": "The balloon went up by itself."
+      },
+      {
+        "id": "rise-vs-raise-2",
+        "question": "Which verb is correct? 'Please ___ the window.'",
+        "options": [
+          "rise",
+          "raise"
+        ],
+        "answer": "raise",
+        "explanation": "You lift the window."
+      },
+      {
+        "id": "rise-vs-raise-3",
+        "question": "Complete: 'The company ___ salaries last year.'",
+        "options": [
+          "rose",
+          "raised"
+        ],
+        "answer": "raised",
+        "explanation": "The company made salaries go up."
+      },
+      {
+        "id": "rise-vs-raise-4",
+        "question": "Complete: 'Smoke ___ from the chimney.'",
+        "options": [
+          "rises",
+          "raises"
+        ],
+        "answer": "rises",
+        "explanation": "Smoke goes up naturally."
+      },
+      {
+        "id": "rise-vs-raise-5",
+        "question": "Which sentence is correct?",
+        "options": [
+          "She raised the child carefully.",
+          "She rose the child carefully."
+        ],
+        "answer": "She raised the child carefully.",
+        "explanation": "You raise a child (lift or bring up). 'Rise' cannot take an object."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'raise' be used without an object?",
+        "answer": "No, 'raise' always needs an object. You raise something."
+      },
+      {
+        "question": "What are the past forms?",
+        "answer": "Rise -> rose -> risen. Raise -> raised -> raised."
+      }
+    ],
+    "relatedSlugs": [
+      "affect-vs-effect",
+      "bring-vs-take",
+      "remember-vs-remind"
+    ],
+    "seo": {
+      "title": "Rise vs Raise: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between rise and raise with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/rise-vs-raise",
+      "keywords": [
+        "rise vs raise",
+        "rise or raise",
+        "English confusing verbs"
+      ]
+    }
+  },
+  {
+    "slug": "since-vs-for",
+    "title": "Since vs For",
+    "words": [
+      "since",
+      "for"
+    ],
+    "level": "A2",
+    "category": "prepositions",
+    "tags": [
+      "time",
+      "duration",
+      "prepositions"
+    ],
+    "shortSummary": "Since is used with a starting point; for is used with a duration.",
+    "quickAnswer": "Use 'since' with a specific time or event (e.g., since 2020), and 'for' with a length of time (e.g., for two years).",
+    "coreDifference": "Since indicates the start of a period; for indicates the length of a period.",
+    "englishExplanation": "Since and for are both used to talk about time. Since tells us when something started. It is followed by a point in time, like a date, year, or event. For tells us how long something lasted. It is followed by a period of time, like hours, days, or years.",
+    "nativeLanguageNotes": {
+      "zh": "Since 接时间点（起点），for 接时间段（长度）。"
+    },
+    "wordDetails": [
+      {
+        "word": "since",
+        "partOfSpeech": "preposition",
+        "simpleMeaning": "from a specific time in the past until now",
+        "commonPatterns": [
+          "since Monday",
+          "since 2010",
+          "since I was a child"
+        ]
+      },
+      {
+        "word": "for",
+        "partOfSpeech": "preposition",
+        "simpleMeaning": "indicating a duration of time",
+        "commonPatterns": [
+          "for two hours",
+          "for a week",
+          "for a long time"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "since",
+        "sentence": "I have lived here since 2015.",
+        "note": "Starting point: 2015."
+      },
+      {
+        "word": "for",
+        "sentence": "I have lived here for eight years.",
+        "note": "Duration: eight years."
+      },
+      {
+        "word": "since",
+        "sentence": "She has been sleeping since 10 PM.",
+        "note": "Starting point: 10 PM."
+      },
+      {
+        "word": "for",
+        "sentence": "She has been sleeping for three hours.",
+        "note": "Duration: three hours."
+      },
+      {
+        "word": "since",
+        "sentence": "They have been friends since childhood.",
+        "note": "Starting point: childhood."
+      },
+      {
+        "word": "for",
+        "sentence": "They have been friends for 20 years.",
+        "note": "Duration: 20 years."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I have been waiting since two hours.",
+        "correct": "I have been waiting for two hours.",
+        "explanation": "Use 'for' with a duration (two hours)."
+      },
+      {
+        "wrong": "I have known her for 2010.",
+        "correct": "I have known her since 2010.",
+        "explanation": "Use 'since' with a specific year."
+      },
+      {
+        "wrong": "He has been sick since three days.",
+        "correct": "He has been sick for three days.",
+        "explanation": "Use 'for' with a period of days."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "since-vs-for-1",
+        "question": "Complete: 'I have studied English ___ 2019.'",
+        "options": [
+          "since",
+          "for"
+        ],
+        "answer": "since",
+        "explanation": "2019 is a specific point in time."
+      },
+      {
+        "id": "since-vs-for-2",
+        "question": "Complete: 'We have been married ___ ten years.'",
+        "options": [
+          "since",
+          "for"
+        ],
+        "answer": "for",
+        "explanation": "Ten years is a duration."
+      },
+      {
+        "id": "since-vs-for-3",
+        "question": "Complete: 'She has worked here ___ last summer.'",
+        "options": [
+          "since",
+          "for"
+        ],
+        "answer": "since",
+        "explanation": "Last summer is a specific starting point."
+      },
+      {
+        "id": "since-vs-for-4",
+        "question": "Complete: 'They have been on vacation ___ a week.'",
+        "options": [
+          "since",
+          "for"
+        ],
+        "answer": "for",
+        "explanation": "A week is a duration."
+      },
+      {
+        "id": "since-vs-for-5",
+        "question": "Which sentence is correct?",
+        "options": [
+          "I have been here since 3 hours.",
+          "I have been here for 3 hours."
+        ],
+        "answer": "I have been here for 3 hours.",
+        "explanation": "3 hours is a duration, so use 'for'."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'since' be used as a conjunction?",
+        "answer": "Yes, 'since' can also mean 'because' or introduce a clause, e.g., 'Since you are here, let's start.'"
+      },
+      {
+        "question": "Do I always need the present perfect with 'since' and 'for'?",
+        "answer": "Often yes, but not always. For example, 'I have lived here for 5 years' (present perfect) but 'I lived there for 2 years' (past simple) is also possible."
+      }
+    ],
+    "relatedSlugs": [
+      "fewer-vs-less",
+      "job-vs-work",
+      "travel-vs-trip"
+    ],
+    "seo": {
+      "title": "Since vs For: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between since and for with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/since-vs-for",
+      "keywords": [
+        "since vs for",
+        "since or for",
+        "English confusing prepositions"
+      ]
+    }
+  },
+  {
+    "slug": "bring-vs-take",
+    "title": "Bring vs Take",
+    "words": [
+      "bring",
+      "take"
+    ],
+    "level": "A2",
+    "category": "verbs",
+    "tags": [
+      "movement verbs",
+      "direction"
+    ],
+    "shortSummary": "Bring means to carry something toward the speaker; take means to carry something away from the speaker.",
+    "quickAnswer": "Use bring for movement toward you, take for movement away from you.",
+    "coreDifference": "Bring indicates movement toward the speaker or listener; take indicates movement away.",
+    "englishExplanation": "The main difference is direction. You bring something to the place where you are or will be. You take something to another place. Think of bring as 'come with' and take as 'go with'.",
+    "nativeLanguageNotes": {
+      "zh": "Bring 是带来（朝说话人方向），take 是带走（远离说话人方向）。"
+    },
+    "wordDetails": [
+      {
+        "word": "bring",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to carry something to the place where the speaker is or will be",
+        "commonPatterns": [
+          "bring something to someone",
+          "bring something with you"
+        ]
+      },
+      {
+        "word": "take",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to carry something away from the speaker to another place",
+        "commonPatterns": [
+          "take something to someone",
+          "take something with you"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "bring",
+        "sentence": "Please bring your book to class tomorrow.",
+        "note": "The teacher is at the class, so the book should come toward her."
+      },
+      {
+        "word": "take",
+        "sentence": "Don't forget to take your umbrella when you leave.",
+        "note": "You are moving away from home, so the umbrella goes with you."
+      },
+      {
+        "word": "bring",
+        "sentence": "Can you bring me a glass of water?",
+        "note": "The water should come toward the speaker."
+      },
+      {
+        "word": "take",
+        "sentence": "I need to take these books back to the library.",
+        "note": "The books go away from the speaker to the library."
+      },
+      {
+        "word": "bring",
+        "sentence": "She brought her friend to the party.",
+        "note": "The friend came to the party where the speaker was."
+      },
+      {
+        "word": "take",
+        "sentence": "He took his son to the park.",
+        "note": "They went away from home to the park."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Can you take me a coffee?",
+        "correct": "Can you bring me a coffee?",
+        "explanation": "When you ask someone to bring something to you, use 'bring' because it comes toward you."
+      },
+      {
+        "wrong": "I will bring my laptop to the meeting (if the meeting is in another room and you are going there).",
+        "correct": "I will take my laptop to the meeting.",
+        "explanation": "If you are going to the meeting, you are moving away from your current location, so use 'take'."
+      },
+      {
+        "wrong": "Please bring this letter to the post office.",
+        "correct": "Please take this letter to the post office.",
+        "explanation": "The post office is away from the speaker, so use 'take'."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "bring-vs-take-1",
+        "question": "You are at home. Your friend is coming to your house. What do you say?",
+        "options": [
+          "Bring your guitar.",
+          "Take your guitar.",
+          "Bring your guitar to your house.",
+          "Take your guitar here."
+        ],
+        "answer": "Bring your guitar.",
+        "explanation": "Your friend is coming toward you, so use 'bring'."
+      },
+      {
+        "id": "bring-vs-take-2",
+        "question": "You are going to a picnic. What do you say to your family?",
+        "options": [
+          "Bring the sandwiches.",
+          "Take the sandwiches.",
+          "Bring the sandwiches to the picnic.",
+          "Take the sandwiches here."
+        ],
+        "answer": "Take the sandwiches.",
+        "explanation": "You are going away from home to the picnic, so use 'take'."
+      },
+      {
+        "id": "bring-vs-take-3",
+        "question": "Which sentence is correct?",
+        "options": [
+          "Please bring this package to the post office.",
+          "Please take this package to the post office.",
+          "Please bring me this package to the post office.",
+          "Please take me this package to the post office."
+        ],
+        "answer": "Please take this package to the post office.",
+        "explanation": "The post office is away from the speaker, so use 'take'."
+      },
+      {
+        "id": "bring-vs-take-4",
+        "question": "You are at a restaurant. You want the waiter to give you the menu. What do you say?",
+        "options": [
+          "Could you take me the menu?",
+          "Could you bring me the menu?",
+          "Could you take the menu to me?",
+          "Could you bring the menu to me?"
+        ],
+        "answer": "Could you bring me the menu?",
+        "explanation": "The menu should come toward you, so use 'bring'."
+      },
+      {
+        "id": "bring-vs-take-5",
+        "question": "Which sentence is correct?",
+        "options": [
+          "I will bring my camera to the trip.",
+          "I will take my camera to the trip.",
+          "I will bring my camera from the trip.",
+          "I will take my camera from the trip."
+        ],
+        "answer": "I will take my camera to the trip.",
+        "explanation": "You are going away from home to the trip, so use 'take'."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can I use 'bring' and 'take' for people?",
+        "answer": "Yes. You can bring someone to a place where you are, and take someone to a place away from you. For example: 'I brought my friend to the party' (the friend came to the party with me) and 'I took my son to school' (we went away from home to school)."
+      }
+    ],
+    "relatedSlugs": [
+      "borrow-vs-lend",
+      "say-vs-tell",
+      "speak-vs-talk"
+    ],
+    "seo": {
+      "title": "Bring vs Take: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between bring and take with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/bring-vs-take",
+      "keywords": [
+        "bring vs take",
+        "bring or take",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "fewer-vs-less",
+    "title": "Fewer vs Less",
+    "words": [
+      "fewer",
+      "less"
+    ],
+    "level": "A2",
+    "category": "adjectives",
+    "tags": [
+      "countable",
+      "uncountable",
+      "quantity"
+    ],
+    "shortSummary": "Use 'fewer' for countable things and 'less' for uncountable things.",
+    "quickAnswer": "Fewer is for things you can count (e.g., fewer apples). Less is for things you can't count (e.g., less water).",
+    "coreDifference": "Fewer modifies countable nouns; less modifies uncountable nouns.",
+    "englishExplanation": "In English, we use 'fewer' with nouns that have a plural form (like books, people, cars) because you can count them. We use 'less' with nouns that don't have a plural form (like water, time, money) because they are amounts, not individual items. For example: 'fewer students' but 'less homework'.",
+    "nativeLanguageNotes": {
+      "zh": "Fewer 用于可数名词（如 fewer apples），less 用于不可数名词（如 less water）。"
+    },
+    "wordDetails": [
+      {
+        "word": "fewer",
+        "partOfSpeech": "determiner",
+        "simpleMeaning": "a smaller number of (countable items)",
+        "commonPatterns": [
+          "fewer + plural noun",
+          "fewer than"
+        ]
+      },
+      {
+        "word": "less",
+        "partOfSpeech": "determiner",
+        "simpleMeaning": "a smaller amount of (uncountable items)",
+        "commonPatterns": [
+          "less + uncountable noun",
+          "less than"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "fewer",
+        "sentence": "There are fewer students in class today than yesterday.",
+        "note": "Students are countable."
+      },
+      {
+        "word": "less",
+        "sentence": "I have less time to finish my homework.",
+        "note": "Time is uncountable."
+      },
+      {
+        "word": "fewer",
+        "sentence": "She bought fewer apples than oranges.",
+        "note": "Apples are countable."
+      },
+      {
+        "word": "less",
+        "sentence": "We need less sugar in this recipe.",
+        "note": "Sugar is uncountable."
+      },
+      {
+        "word": "fewer",
+        "sentence": "This year, we had fewer rainy days.",
+        "note": "Days are countable."
+      },
+      {
+        "word": "less",
+        "sentence": "He earns less money than his brother.",
+        "note": "Money is uncountable."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I have less books than you.",
+        "correct": "I have fewer books than you.",
+        "explanation": "Books are countable, so use 'fewer'."
+      },
+      {
+        "wrong": "There are less people here today.",
+        "correct": "There are fewer people here today.",
+        "explanation": "People are countable, so use 'fewer'."
+      },
+      {
+        "wrong": "I need fewer water.",
+        "correct": "I need less water.",
+        "explanation": "Water is uncountable, so use 'less'."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "fewer-vs-less-1",
+        "question": "Which word completes the sentence? 'I have ___ homework today.'",
+        "options": [
+          "fewer",
+          "less",
+          "few",
+          "little"
+        ],
+        "answer": "less",
+        "explanation": "Homework is uncountable, so use 'less'."
+      },
+      {
+        "id": "fewer-vs-less-2",
+        "question": "Which word completes the sentence? 'She has ___ friends than her sister.'",
+        "options": [
+          "fewer",
+          "less",
+          "few",
+          "little"
+        ],
+        "answer": "fewer",
+        "explanation": "Friends are countable, so use 'fewer'."
+      },
+      {
+        "id": "fewer-vs-less-3",
+        "question": "Which sentence is correct?",
+        "options": [
+          "There are less cars on the road today.",
+          "There are fewer cars on the road today.",
+          "There is less cars on the road today.",
+          "There is fewer cars on the road today."
+        ],
+        "answer": "There are fewer cars on the road today.",
+        "explanation": "Cars are countable, so use 'fewer'."
+      },
+      {
+        "id": "fewer-vs-less-4",
+        "question": "Which sentence is correct?",
+        "options": [
+          "I need fewer milk for this recipe.",
+          "I need less milk for this recipe.",
+          "I need few milk for this recipe.",
+          "I need little milk for this recipe."
+        ],
+        "answer": "I need less milk for this recipe.",
+        "explanation": "Milk is uncountable, so use 'less'."
+      },
+      {
+        "id": "fewer-vs-less-5",
+        "question": "Which word completes the sentence? 'We should eat ___ junk food.'",
+        "options": [
+          "fewer",
+          "less",
+          "few",
+          "little"
+        ],
+        "answer": "less",
+        "explanation": "Junk food is uncountable, so use 'less'."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is it ever okay to use 'less' with countable nouns?",
+        "answer": "In informal English, people sometimes use 'less' with countable nouns, especially with numbers (e.g., 'less than 10 items'). But for clear, correct English, it's better to use 'fewer' with countable nouns."
+      }
+    ],
+    "relatedSlugs": [
+      "affect-vs-effect",
+      "job-vs-work",
+      "fun-vs-funny"
+    ],
+    "seo": {
+      "title": "Fewer vs Less: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between fewer and less with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/fewer-vs-less",
+      "keywords": [
+        "fewer vs less",
+        "fewer or less",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "alone-vs-lonely",
+    "title": "Alone vs Lonely",
+    "words": [
+      "alone",
+      "lonely"
+    ],
+    "level": "A2",
+    "category": "adjectives",
+    "tags": [
+      "emotions",
+      "state"
+    ],
+    "shortSummary": "Alone means not with other people; lonely means feeling sad because you are alone.",
+    "quickAnswer": "Alone is a fact; lonely is a feeling.",
+    "coreDifference": "Alone describes a physical state (no one else present); lonely describes an emotional state (feeling sad from being alone).",
+    "englishExplanation": "You can be alone without being lonely, and you can feel lonely even when you are with other people. 'Alone' simply means no one else is with you. 'Lonely' is a negative feeling of wanting company. For example, some people enjoy being alone, but no one enjoys feeling lonely.",
+    "nativeLanguageNotes": {
+      "zh": "Alone 是客观的“独自一人”，lonely 是主观的“感到孤独”。"
+    },
+    "wordDetails": [
+      {
+        "word": "alone",
+        "partOfSpeech": "adjective",
+        "simpleMeaning": "without other people",
+        "commonPatterns": [
+          "be alone",
+          "live alone",
+          "go alone"
+        ]
+      },
+      {
+        "word": "lonely",
+        "partOfSpeech": "adjective",
+        "simpleMeaning": "feeling sad because you are alone or have no friends",
+        "commonPatterns": [
+          "feel lonely",
+          "a lonely person",
+          "a lonely place"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "alone",
+        "sentence": "I like to be alone sometimes to read a book.",
+        "note": "This is a positive or neutral state."
+      },
+      {
+        "word": "lonely",
+        "sentence": "After moving to a new city, she felt very lonely.",
+        "note": "This describes a sad emotion."
+      },
+      {
+        "word": "alone",
+        "sentence": "He lives alone in a small apartment.",
+        "note": "Fact: no one else lives with him."
+      },
+      {
+        "word": "lonely",
+        "sentence": "Even in a crowd, he felt lonely.",
+        "note": "You can feel lonely even with people around."
+      },
+      {
+        "word": "alone",
+        "sentence": "She walked home alone after the party.",
+        "note": "No one was with her."
+      },
+      {
+        "word": "lonely",
+        "sentence": "The old man was lonely after his wife passed away.",
+        "note": "He missed her company."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I feel alone even though I have many friends.",
+        "correct": "I feel lonely even though I have many friends.",
+        "explanation": "If you are describing an emotion, use 'lonely'. 'Alone' is for physical state."
+      },
+      {
+        "wrong": "She lives lonely in a big house.",
+        "correct": "She lives alone in a big house.",
+        "explanation": "Use 'alone' to describe living without others."
+      },
+      {
+        "wrong": "He is a very alone person.",
+        "correct": "He is a very lonely person.",
+        "explanation": "Use 'lonely' to describe a person who often feels sad from being alone."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "alone-vs-lonely-1",
+        "question": "Which word completes the sentence? 'I don't mind being ___. I enjoy my own company.'",
+        "options": [
+          "alone",
+          "lonely",
+          "alone and lonely",
+          "lonely but alone"
+        ],
+        "answer": "alone",
+        "explanation": "The speaker enjoys it, so it's a positive state. Use 'alone'."
+      },
+      {
+        "id": "alone-vs-lonely-2",
+        "question": "Which word completes the sentence? 'She felt ___ when her best friend moved away.'",
+        "options": [
+          "alone",
+          "lonely",
+          "alone and lonely",
+          "lonely but alone"
+        ],
+        "answer": "lonely",
+        "explanation": "She feels sad, so use 'lonely'."
+      },
+      {
+        "id": "alone-vs-lonely-3",
+        "question": "Which sentence is correct?",
+        "options": [
+          "He lives lonely in the countryside.",
+          "He lives alone in the countryside.",
+          "He lives lonely and alone in the countryside.",
+          "He lives alone and lonely in the countryside."
+        ],
+        "answer": "He lives alone in the countryside.",
+        "explanation": "Use 'alone' to describe the fact of living without others."
+      },
+      {
+        "id": "alone-vs-lonely-4",
+        "question": "Which sentence is correct?",
+        "options": [
+          "Even in a crowd, she felt alone.",
+          "Even in a crowd, she felt lonely.",
+          "Even in a crowd, she felt alone and lonely.",
+          "Even in a crowd, she felt lonely and alone."
+        ],
+        "answer": "Even in a crowd, she felt lonely.",
+        "explanation": "She feels sad despite being with people, so use 'lonely'."
+      },
+      {
+        "id": "alone-vs-lonely-5",
+        "question": "Which word completes the sentence? 'I want to go on vacation ___.'",
+        "options": [
+          "alone",
+          "lonely",
+          "alone and lonely",
+          "lonely but alone"
+        ],
+        "answer": "alone",
+        "explanation": "This means without other people, a fact. Use 'alone'."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'lonely' be used for places?",
+        "answer": "Yes. A place can be described as lonely if it makes you feel sad because it is empty or isolated. For example: 'a lonely road'."
+      }
+    ],
+    "relatedSlugs": [
+      "fun-vs-funny",
+      "sensible-vs-sensitive",
+      "remember-vs-remind"
+    ],
+    "seo": {
+      "title": "Alone vs Lonely: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between alone and lonely with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/alone-vs-lonely",
+      "keywords": [
+        "alone vs lonely",
+        "alone or lonely",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "beside-vs-besides",
+    "title": "Beside vs Besides",
+    "words": [
+      "beside",
+      "besides"
+    ],
+    "level": "A2",
+    "category": "prepositions",
+    "tags": [
+      "prepositions",
+      "adverbs"
+    ],
+    "shortSummary": "Beside means 'next to'; besides means 'in addition to' or 'except for'.",
+    "quickAnswer": "Beside = at the side of; besides = also or except.",
+    "coreDifference": "Beside is a preposition meaning 'next to'; besides can be a preposition meaning 'in addition to' or 'except', or an adverb meaning 'also' or 'anyway'.",
+    "englishExplanation": "These two words look similar but have different meanings. 'Beside' always refers to physical position: something is at the side of something else. 'Besides' is used to add information or to mean 'except'. For example: 'Sit beside me' (next to me) vs 'Besides English, I speak Spanish' (in addition to English).",
+    "nativeLanguageNotes": {
+      "zh": "Beside 是“在...旁边”，besides 是“除了...还有”或“而且”。"
+    },
+    "wordDetails": [
+      {
+        "word": "beside",
+        "partOfSpeech": "preposition",
+        "simpleMeaning": "at the side of; next to",
+        "commonPatterns": [
+          "beside + noun",
+          "stand beside",
+          "sit beside"
+        ]
+      },
+      {
+        "word": "besides",
+        "partOfSpeech": "preposition/adverb",
+        "simpleMeaning": "in addition to; also; except",
+        "commonPatterns": [
+          "besides + noun",
+          "besides, ...",
+          "besides that"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "beside",
+        "sentence": "The cat is sleeping beside the fireplace.",
+        "note": "Physical position: next to the fireplace."
+      },
+      {
+        "word": "besides",
+        "sentence": "Besides math, she also loves science.",
+        "note": "In addition to math."
+      },
+      {
+        "word": "beside",
+        "sentence": "Come and sit beside me.",
+        "note": "Next to me."
+      },
+      {
+        "word": "besides",
+        "sentence": "I don't want to go. Besides, it's raining.",
+        "note": "Used as an adverb meaning 'also' or 'anyway'."
+      },
+      {
+        "word": "beside",
+        "sentence": "The school is beside the park.",
+        "note": "Next to the park."
+      },
+      {
+        "word": "besides",
+        "sentence": "No one besides you knows the secret.",
+        "note": "Except you."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "She sat besides me.",
+        "correct": "She sat beside me.",
+        "explanation": "Use 'beside' for physical position next to someone."
+      },
+      {
+        "wrong": "Beside English, I speak French.",
+        "correct": "Besides English, I speak French.",
+        "explanation": "Use 'besides' to mean 'in addition to'."
+      },
+      {
+        "wrong": "I don't like that restaurant. Beside, it's expensive.",
+        "correct": "I don't like that restaurant. Besides, it's expensive.",
+        "explanation": "Use 'besides' as an adverb meaning 'also' or 'anyway'."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "beside-vs-besides-1",
+        "question": "Which word completes the sentence? 'The bank is ___ the post office.'",
+        "options": [
+          "beside",
+          "besides",
+          "beside of",
+          "besides of"
+        ],
+        "answer": "beside",
+        "explanation": "Physical position: next to the post office."
+      },
+      {
+        "id": "beside-vs-besides-2",
+        "question": "Which word completes the sentence? '___ the main course, we had dessert.'",
+        "options": [
+          "Beside",
+          "Besides",
+          "Beside of",
+          "Besides of"
+        ],
+        "answer": "Besides",
+        "explanation": "In addition to the main course."
+      },
+      {
+        "id": "beside-vs-besides-3",
+        "question": "Which sentence is correct?",
+        "options": [
+          "He stood besides his friend.",
+          "He stood beside his friend.",
+          "He stood beside of his friend.",
+          "He stood besides of his friend."
+        ],
+        "answer": "He stood beside his friend.",
+        "explanation": "Use 'beside' for physical position."
+      },
+      {
+        "id": "beside-vs-besides-4",
+        "question": "Which sentence is correct?",
+        "options": [
+          "Besides, I have another idea.",
+          "Beside, I have another idea.",
+          "Beside of, I have another idea.",
+          "Besides of, I have another idea."
+        ],
+        "answer": "Besides, I have another idea.",
+        "explanation": "Use 'besides' as an adverb meaning 'also'."
+      },
+      {
+        "id": "beside-vs-besides-5",
+        "question": "Which word completes the sentence? 'No one ___ him knows the answer.'",
+        "options": [
+          "beside",
+          "besides",
+          "beside of",
+          "besides of"
+        ],
+        "answer": "besides",
+        "explanation": "Except him."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'beside' ever mean 'in addition to'?",
+        "answer": "No. 'Beside' only means 'next to'. For 'in addition to', always use 'besides'."
+      }
+    ],
+    "relatedSlugs": [
+      "since-vs-for",
+      "advice-vs-advise",
+      "learn-vs-study"
+    ],
+    "seo": {
+      "title": "Beside vs Besides: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between beside and besides with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/beside-vs-besides",
+      "keywords": [
+        "beside vs besides",
+        "beside or besides",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "remember-vs-remind",
+    "title": "Remember vs Remind",
+    "words": [
+      "remember",
+      "remind"
+    ],
+    "level": "A2",
+    "category": "verbs",
+    "tags": [
+      "memory",
+      "common mistakes"
+    ],
+    "shortSummary": "Remember is about keeping information in your mind; remind is about helping someone else remember.",
+    "quickAnswer": "Use 'remember' when you keep something in your mind. Use 'remind' when someone or something helps you not to forget.",
+    "coreDifference": "Remember is something you do yourself; remind is something that helps you or someone else remember.",
+    "englishExplanation": "Remember means to keep information in your mind or to bring it back into your mind. For example, 'I remember her name.' Remind means to help someone remember something. For example, 'Please remind me to call her.' The subject of 'remind' is the person or thing that helps you remember, not the person who remembers.",
+    "nativeLanguageNotes": {
+      "zh": "Remember 是自己记住；remind 是别人或事物提醒你。"
+    },
+    "wordDetails": [
+      {
+        "word": "remember",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to keep something in your mind or bring it back into your mind",
+        "commonPatterns": [
+          "remember + noun",
+          "remember + to + verb",
+          "remember + that + clause"
+        ]
+      },
+      {
+        "word": "remind",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to help someone remember something",
+        "commonPatterns": [
+          "remind + someone",
+          "remind + someone + to + verb",
+          "remind + someone + of + noun"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "remember",
+        "sentence": "I remember my first day at school.",
+        "note": "You keep the memory in your mind."
+      },
+      {
+        "word": "remember",
+        "sentence": "Please remember to lock the door.",
+        "note": "You must not forget to do it."
+      },
+      {
+        "word": "remember",
+        "sentence": "Do you remember where we parked?",
+        "note": "You try to bring information back into your mind."
+      },
+      {
+        "word": "remind",
+        "sentence": "Can you remind me to buy milk?",
+        "note": "You ask someone to help you not forget."
+      },
+      {
+        "word": "remind",
+        "sentence": "This song reminds me of my childhood.",
+        "note": "The song helps you remember."
+      },
+      {
+        "word": "remind",
+        "sentence": "I set an alarm to remind me of the meeting.",
+        "note": "The alarm helps you remember."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Please remember me to call him.",
+        "correct": "Please remind me to call him.",
+        "explanation": "Use 'remind' when you ask someone to help you remember."
+      },
+      {
+        "wrong": "She reminded her childhood.",
+        "correct": "She remembered her childhood.",
+        "explanation": "Use 'remember' when you bring a memory to your mind yourself."
+      },
+      {
+        "wrong": "I remind your name.",
+        "correct": "I remember your name.",
+        "explanation": "Use 'remember' for keeping information in your mind."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "remember-vs-remind-1",
+        "question": "I ______ to bring my umbrella, but I forgot.",
+        "options": [
+          "remembered",
+          "reminded",
+          "remember",
+          "remind"
+        ],
+        "answer": "remembered",
+        "explanation": "You tried to keep it in your mind, so use 'remember'."
+      },
+      {
+        "id": "remember-vs-remind-2",
+        "question": "Please ______ me to call my mother.",
+        "options": [
+          "remember",
+          "remind",
+          "remembered",
+          "reminded"
+        ],
+        "answer": "remind",
+        "explanation": "You are asking someone to help you remember."
+      },
+      {
+        "id": "remember-vs-remind-3",
+        "question": "This photo ______ me of our vacation.",
+        "options": [
+          "remembers",
+          "reminds",
+          "remember",
+          "remind"
+        ],
+        "answer": "reminds",
+        "explanation": "The photo helps you remember."
+      },
+      {
+        "id": "remember-vs-remind-4",
+        "question": "Do you ______ where you put the keys?",
+        "options": [
+          "remind",
+          "remember",
+          "reminds",
+          "remembers"
+        ],
+        "answer": "remember",
+        "explanation": "You are trying to bring information into your mind."
+      },
+      {
+        "id": "remember-vs-remind-5",
+        "question": "I always ______ to take my medicine.",
+        "options": [
+          "remind",
+          "remember",
+          "reminds",
+          "remembers"
+        ],
+        "answer": "remember",
+        "explanation": "You keep it in your mind yourself."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can I use 'remind' without an object?",
+        "answer": "No, 'remind' always needs an object. You must say 'remind someone' or 'remind someone of something'."
+      },
+      {
+        "question": "Is 'remember' always about the past?",
+        "answer": "No, you can remember to do something in the future, like 'remember to call'."
+      }
+    ],
+    "relatedSlugs": [
+      "say-vs-tell",
+      "hear-vs-listen",
+      "bring-vs-take"
+    ],
+    "seo": {
+      "title": "Remember vs Remind: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between remember and remind with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/remember-vs-remind",
+      "keywords": [
+        "remember vs remind",
+        "remember or remind",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "advice-vs-advise",
+    "title": "Advice vs Advise",
+    "words": [
+      "advice",
+      "advise"
+    ],
+    "level": "A2",
+    "category": "grammar",
+    "tags": [
+      "nouns vs verbs",
+      "common mistakes"
+    ],
+    "shortSummary": "Advice is a noun (a suggestion); advise is a verb (to give a suggestion).",
+    "quickAnswer": "Use 'advice' when you talk about the suggestion itself (noun). Use 'advise' when you talk about the action of giving a suggestion (verb).",
+    "coreDifference": "Advice is a thing (noun); advise is an action (verb).",
+    "englishExplanation": "Advice (with a 'c') is a noun. It means an opinion or suggestion about what someone should do. For example, 'She gave me good advice.' Advise (with an 's') is a verb. It means to give advice. For example, 'I advise you to study more.' The pronunciation is also different: advice ends with /s/ and advise ends with /z/.",
+    "nativeLanguageNotes": {
+      "zh": "Advice 是名词（建议），advise 是动词（建议）。注意发音不同。"
+    },
+    "wordDetails": [
+      {
+        "word": "advice",
+        "partOfSpeech": "noun",
+        "simpleMeaning": "a suggestion or opinion about what to do",
+        "commonPatterns": [
+          "give advice",
+          "some advice",
+          "a piece of advice"
+        ]
+      },
+      {
+        "word": "advise",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to give advice to someone",
+        "commonPatterns": [
+          "advise someone",
+          "advise someone to do something",
+          "advise against"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "advice",
+        "sentence": "Can you give me some advice about my job?",
+        "note": "Advice is a thing you ask for."
+      },
+      {
+        "word": "advice",
+        "sentence": "My father's advice was very helpful.",
+        "note": "Advice is a noun."
+      },
+      {
+        "word": "advice",
+        "sentence": "I need a piece of advice.",
+        "note": "You can count advice as 'a piece of'."
+      },
+      {
+        "word": "advise",
+        "sentence": "I advise you to see a doctor.",
+        "note": "Advise is the action of giving advice."
+      },
+      {
+        "word": "advise",
+        "sentence": "She advised me to take the train.",
+        "note": "Past tense of advise."
+      },
+      {
+        "word": "advise",
+        "sentence": "The doctor advises against smoking.",
+        "note": "Advise against means recommend not doing."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "She gave me a good advise.",
+        "correct": "She gave me good advice.",
+        "explanation": "Advise is a verb; use the noun 'advice' after 'give'."
+      },
+      {
+        "wrong": "I advice you to wait.",
+        "correct": "I advise you to wait.",
+        "explanation": "Advice is a noun; use the verb 'advise'."
+      },
+      {
+        "wrong": "He adviced me to go.",
+        "correct": "He advised me to go.",
+        "explanation": "The past tense of advise is 'advised', not 'adviced'."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "advice-vs-advise-1",
+        "question": "She gave me some good ______.",
+        "options": [
+          "advise",
+          "advice",
+          "advises",
+          "adviced"
+        ],
+        "answer": "advice",
+        "explanation": "After 'give', use the noun 'advice'."
+      },
+      {
+        "id": "advice-vs-advise-2",
+        "question": "I ______ you to study harder.",
+        "options": [
+          "advice",
+          "advise",
+          "advises",
+          "adviced"
+        ],
+        "answer": "advise",
+        "explanation": "Use the verb 'advise' before 'you'."
+      },
+      {
+        "id": "advice-vs-advise-3",
+        "question": "Can you ______ me on this matter?",
+        "options": [
+          "advice",
+          "advise",
+          "advices",
+          "advising"
+        ],
+        "answer": "advise",
+        "explanation": "Use the verb 'advise' after 'can you'."
+      },
+      {
+        "id": "advice-vs-advise-4",
+        "question": "Thank you for your ______.",
+        "options": [
+          "advise",
+          "advice",
+          "advises",
+          "adviced"
+        ],
+        "answer": "advice",
+        "explanation": "After 'your', use the noun 'advice'."
+      },
+      {
+        "id": "advice-vs-advise-5",
+        "question": "The lawyer ______ her not to sign the contract.",
+        "options": [
+          "advice",
+          "advise",
+          "advised",
+          "advices"
+        ],
+        "answer": "advised",
+        "explanation": "Past tense of the verb 'advise' is 'advised'."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is 'advice' countable or uncountable?",
+        "answer": "Advice is usually uncountable. We say 'some advice' or 'a piece of advice', not 'an advice'."
+      },
+      {
+        "question": "How do you pronounce 'advice' and 'advise'?",
+        "answer": "Advice ends with an /s/ sound (like 'ice'), and advise ends with a /z/ sound (like 'eyes')."
+      }
+    ],
+    "relatedSlugs": [
+      "affect-vs-effect",
+      "say-vs-tell",
+      "job-vs-work"
+    ],
+    "seo": {
+      "title": "Advice vs Advise: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between advice and advise with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/advice-vs-advise",
+      "keywords": [
+        "advice vs advise",
+        "advice or advise",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "learn-vs-study",
+    "title": "Learn vs Study",
+    "words": [
+      "learn",
+      "study"
+    ],
+    "level": "A2",
+    "category": "verbs",
+    "tags": [
+      "education",
+      "common mistakes"
+    ],
+    "shortSummary": "Learn is about gaining knowledge or skill; study is about the effort to learn.",
+    "quickAnswer": "Use 'learn' when you focus on the result (you know something new). Use 'study' when you focus on the process (reading, practicing).",
+    "coreDifference": "Learn is the outcome; study is the activity.",
+    "englishExplanation": "Learn means to get new knowledge or skill. For example, 'I learned to swim.' Study means to spend time reading, memorizing, or practicing in order to learn. For example, 'I studied for the exam.' You can study without learning, and you can learn without studying (like learning from experience).",
+    "nativeLanguageNotes": {
+      "zh": "Learn 强调结果（学会了），study 强调过程（学习）。"
+    },
+    "wordDetails": [
+      {
+        "word": "learn",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to gain knowledge or skill by experience, study, or being taught",
+        "commonPatterns": [
+          "learn + noun",
+          "learn to + verb",
+          "learn about + topic"
+        ]
+      },
+      {
+        "word": "study",
+        "partOfSpeech": "verb",
+        "simpleMeaning": "to spend time reading, memorizing, or practicing to learn something",
+        "commonPatterns": [
+          "study + noun",
+          "study for + exam",
+          "study + subject"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "learn",
+        "sentence": "I learned how to cook from my grandmother.",
+        "note": "You gained a skill."
+      },
+      {
+        "word": "learn",
+        "sentence": "She learned the news yesterday.",
+        "note": "You received new information."
+      },
+      {
+        "word": "learn",
+        "sentence": "Children learn languages quickly.",
+        "note": "They naturally gain the ability."
+      },
+      {
+        "word": "study",
+        "sentence": "I need to study for the test tomorrow.",
+        "note": "You are preparing."
+      },
+      {
+        "word": "study",
+        "sentence": "He studies biology at university.",
+        "note": "He spends time learning that subject."
+      },
+      {
+        "word": "study",
+        "sentence": "We studied the map before the trip.",
+        "note": "We looked at it carefully to understand."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I studied English for two years, but I didn't study anything.",
+        "correct": "I studied English for two years, but I didn't learn anything.",
+        "explanation": "You can study without learning. Use 'learn' for the result."
+      },
+      {
+        "wrong": "I need to learn for the exam.",
+        "correct": "I need to study for the exam.",
+        "explanation": "Use 'study' for the activity of preparing for an exam."
+      },
+      {
+        "wrong": "She learned math at school every day.",
+        "correct": "She studied math at school every day.",
+        "explanation": "Use 'study' for the regular activity of learning a subject."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "learn-vs-study-1",
+        "question": "I want to ______ how to play the guitar.",
+        "options": [
+          "study",
+          "learn",
+          "studying",
+          "learning"
+        ],
+        "answer": "learn",
+        "explanation": "You want to gain the skill, so use 'learn'."
+      },
+      {
+        "id": "learn-vs-study-2",
+        "question": "She ______ for three hours every night.",
+        "options": [
+          "learns",
+          "studies",
+          "learned",
+          "studied"
+        ],
+        "answer": "studies",
+        "explanation": "This is about the activity, so use 'study'."
+      },
+      {
+        "id": "learn-vs-study-3",
+        "question": "Did you ______ anything new today?",
+        "options": [
+          "study",
+          "learn",
+          "studied",
+          "learning"
+        ],
+        "answer": "learn",
+        "explanation": "You are asking about gaining new knowledge."
+      },
+      {
+        "id": "learn-vs-study-4",
+        "question": "He is ______ for his driving test.",
+        "options": [
+          "learning",
+          "studying",
+          "learned",
+          "studied"
+        ],
+        "answer": "studying",
+        "explanation": "He is preparing for the test, so use 'study'."
+      },
+      {
+        "id": "learn-vs-study-5",
+        "question": "We can ______ from our mistakes.",
+        "options": [
+          "study",
+          "learn",
+          "studying",
+          "learning"
+        ],
+        "answer": "learn",
+        "explanation": "You gain knowledge from experience."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can I use 'learn' and 'study' interchangeably?",
+        "answer": "Not always. If you focus on the process, use 'study'. If you focus on the result, use 'learn'."
+      },
+      {
+        "question": "Is it correct to say 'study a language'?",
+        "answer": "Yes, you can study a language (the activity) and learn a language (the result)."
+      }
+    ],
+    "relatedSlugs": [
+      "job-vs-work",
+      "hear-vs-listen",
+      "remember-vs-remind"
+    ],
+    "seo": {
+      "title": "Learn vs Study: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between learn and study with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/learn-vs-study",
+      "keywords": [
+        "learn vs study",
+        "learn or study",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "sensible-vs-sensitive",
+    "title": "Sensible vs Sensitive",
+    "words": [
+      "sensible",
+      "sensitive"
+    ],
+    "level": "B1",
+    "category": "adjectives",
+    "tags": [
+      "personality",
+      "common mistakes"
+    ],
+    "shortSummary": "Sensible means practical and reasonable; sensitive means easily affected by emotions or external factors.",
+    "quickAnswer": "Use 'sensible' for someone who makes good decisions. Use 'sensitive' for someone who feels emotions strongly or reacts easily to things.",
+    "coreDifference": "Sensible is about good judgment; sensitive is about strong feelings or reactions.",
+    "englishExplanation": "Sensible describes someone who is practical, reasonable, and makes smart choices. For example, 'It was sensible to bring an umbrella.' Sensitive describes someone who is easily upset, or who notices small changes. For example, 'She is sensitive to criticism.' Sensitive can also describe skin or devices that react easily.",
+    "nativeLanguageNotes": {
+      "zh": "Sensible 是明智的，sensitive 是敏感的。"
+    },
+    "wordDetails": [
+      {
+        "word": "sensible",
+        "partOfSpeech": "adjective",
+        "simpleMeaning": "having or showing good sense; practical",
+        "commonPatterns": [
+          "sensible decision",
+          "sensible person",
+          "it is sensible to"
+        ]
+      },
+      {
+        "word": "sensitive",
+        "partOfSpeech": "adjective",
+        "simpleMeaning": "easily upset, offended, or affected; aware of small changes",
+        "commonPatterns": [
+          "sensitive to",
+          "sensitive skin",
+          "sensitive person"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "sensible",
+        "sentence": "It's sensible to save money for emergencies.",
+        "note": "A practical idea."
+      },
+      {
+        "word": "sensible",
+        "sentence": "He is a sensible driver; he never speeds.",
+        "note": "He makes safe choices."
+      },
+      {
+        "word": "sensible",
+        "sentence": "Wearing a helmet is a sensible precaution.",
+        "note": "A reasonable action."
+      },
+      {
+        "word": "sensitive",
+        "sentence": "She is very sensitive; don't joke about her weight.",
+        "note": "She gets upset easily."
+      },
+      {
+        "word": "sensitive",
+        "sentence": "My skin is sensitive to the sun.",
+        "note": "It reacts easily."
+      },
+      {
+        "word": "sensitive",
+        "sentence": "The equipment is sensitive to temperature changes.",
+        "note": "It is affected by small changes."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "She is a very sensitive person; she always makes good decisions.",
+        "correct": "She is a very sensible person; she always makes good decisions.",
+        "explanation": "Use 'sensible' for good judgment."
+      },
+      {
+        "wrong": "He is too sensible; he cries easily.",
+        "correct": "He is too sensitive; he cries easily.",
+        "explanation": "Use 'sensitive' for emotional reactions."
+      },
+      {
+        "wrong": "It was sensitive of you to bring a coat.",
+        "correct": "It was sensible of you to bring a coat.",
+        "explanation": "Use 'sensible' for practical actions."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "sensible-vs-sensitive-1",
+        "question": "A ______ person thinks carefully before making a decision.",
+        "options": [
+          "sensible",
+          "sensitive",
+          "sensibly",
+          "sensitively"
+        ],
+        "answer": "sensible",
+        "explanation": "This describes someone with good judgment."
+      },
+      {
+        "id": "sensible-vs-sensitive-2",
+        "question": "Don't be so ______; I was only joking.",
+        "options": [
+          "sensible",
+          "sensitive",
+          "sensibly",
+          "sensitively"
+        ],
+        "answer": "sensitive",
+        "explanation": "The person is easily upset."
+      },
+      {
+        "id": "sensible-vs-sensitive-3",
+        "question": "It's not ______ to spend all your money on clothes.",
+        "options": [
+          "sensible",
+          "sensitive",
+          "sensibly",
+          "sensitively"
+        ],
+        "answer": "sensible",
+        "explanation": "It's not practical or reasonable."
+      },
+      {
+        "id": "sensible-vs-sensitive-4",
+        "question": "She has ______ skin that gets red easily.",
+        "options": [
+          "sensible",
+          "sensitive",
+          "sensibly",
+          "sensitively"
+        ],
+        "answer": "sensitive",
+        "explanation": "Skin that reacts easily."
+      },
+      {
+        "id": "sensible-vs-sensitive-5",
+        "question": "A ______ person listens to advice and makes wise choices.",
+        "options": [
+          "sensible",
+          "sensitive",
+          "sensibly",
+          "sensitively"
+        ],
+        "answer": "sensible",
+        "explanation": "Wise choices show good sense."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'sensitive' have a positive meaning?",
+        "answer": "Yes, it can mean aware of others' feelings, like 'a sensitive friend'."
+      },
+      {
+        "question": "Is 'sensible' always positive?",
+        "answer": "Usually yes, but sometimes it can mean boring or not fun."
+      }
+    ],
+    "relatedSlugs": [
+      "fun-vs-funny",
+      "alone-vs-lonely",
+      "affect-vs-effect"
+    ],
+    "seo": {
+      "title": "Sensible vs Sensitive: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between sensible and sensitive with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/sensible-vs-sensitive",
+      "keywords": [
+        "sensible vs sensitive",
+        "sensible or sensitive",
+        "English confusing words"
+      ]
+    }
+  },
+  {
+    "slug": "travel-vs-trip",
+    "title": "Travel vs Trip",
+    "words": [
+      "travel",
+      "trip"
+    ],
+    "level": "A2",
+    "category": "nouns",
+    "tags": [
+      "travel vocabulary",
+      "confusing nouns"
+    ],
+    "shortSummary": "Travel is the general activity of moving from place to place, while a trip is a specific journey with a purpose.",
+    "quickAnswer": "Use 'travel' for the general idea of going places, and 'trip' for a specific journey you plan and take.",
+    "coreDifference": "Travel is an uncountable noun or verb for the act of moving; trip is a countable noun for a specific journey.",
+    "englishExplanation": "Travel is a broad concept. It can be a verb ('I love to travel') or an uncountable noun ('Travel broadens the mind'). Trip is always a countable noun. It refers to a specific journey, often with a purpose like a vacation or business. You can say 'a trip to Paris' but not 'a travel to Paris'.",
+    "nativeLanguageNotes": {
+      "zh": "Travel 是泛指旅行这个活动，不可数；trip 是具体的一次旅行，可数。"
+    },
+    "wordDetails": [
+      {
+        "word": "travel",
+        "partOfSpeech": "noun / verb",
+        "simpleMeaning": "the act of going from one place to another",
+        "commonPatterns": [
+          "travel to [place]",
+          "travel by [transport]",
+          "travel light"
+        ]
+      },
+      {
+        "word": "trip",
+        "partOfSpeech": "noun",
+        "simpleMeaning": "a journey to a place and back again",
+        "commonPatterns": [
+          "a trip to [place]",
+          "go on a trip",
+          "business trip",
+          "day trip"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "word": "travel",
+        "sentence": "I love to travel and see new places.",
+        "note": "Travel as a verb."
+      },
+      {
+        "word": "travel",
+        "sentence": "Travel can be expensive, but it's worth it.",
+        "note": "Travel as an uncountable noun."
+      },
+      {
+        "word": "trip",
+        "sentence": "We took a trip to the beach last weekend.",
+        "note": "A specific journey."
+      },
+      {
+        "word": "trip",
+        "sentence": "She is on a business trip in Tokyo.",
+        "note": "Trip with a purpose."
+      },
+      {
+        "word": "travel",
+        "sentence": "Air travel is faster than train travel.",
+        "note": "Travel as a noun in compound forms."
+      },
+      {
+        "word": "trip",
+        "sentence": "How was your trip to London?",
+        "note": "Asking about a specific journey."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "I made a travel to Japan.",
+        "correct": "I took a trip to Japan.",
+        "explanation": "Use 'trip' for a specific journey, not 'travel'."
+      },
+      {
+        "wrong": "I love trip.",
+        "correct": "I love travel.",
+        "explanation": "Use 'travel' for the general idea, not 'trip'."
+      },
+      {
+        "wrong": "We had a good travel.",
+        "correct": "We had a good trip.",
+        "explanation": "Use 'trip' when you mean a specific journey."
+      }
+    ],
+    "quiz": [
+      {
+        "id": "travel-vs-trip-1",
+        "question": "Which word fits? 'I love to ______.'",
+        "options": [
+          "travel",
+          "trip",
+          "a travel",
+          "a trip"
+        ],
+        "answer": "travel",
+        "explanation": "We use 'travel' as a verb to talk about the general activity."
+      },
+      {
+        "id": "travel-vs-trip-2",
+        "question": "Which word fits? 'We went on a ______ to the mountains.'",
+        "options": [
+          "travel",
+          "trip",
+          "travels",
+          "triping"
+        ],
+        "answer": "trip",
+        "explanation": "A specific journey is a 'trip'."
+      },
+      {
+        "id": "travel-vs-trip-3",
+        "question": "Which sentence is correct?",
+        "options": [
+          "I had a wonderful travel.",
+          "I had a wonderful trip.",
+          "I had wonderful travels.",
+          "I had wonderful trip."
+        ],
+        "answer": "I had a wonderful trip.",
+        "explanation": "Use 'trip' for a specific journey."
+      },
+      {
+        "id": "travel-vs-trip-4",
+        "question": "Which word is uncountable?",
+        "options": [
+          "travel",
+          "trip",
+          "both",
+          "neither"
+        ],
+        "answer": "travel",
+        "explanation": "Travel is uncountable; trip is countable."
+      },
+      {
+        "id": "travel-vs-trip-5",
+        "question": "Complete: 'She is on a business ______.'",
+        "options": [
+          "travel",
+          "trip",
+          "travels",
+          "triping"
+        ],
+        "answer": "trip",
+        "explanation": "We say 'business trip'."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can 'travel' be a countable noun?",
+        "answer": "Sometimes, but it's rare. For example, 'She writes about her travels.' Here 'travels' means multiple journeys. But for general use, treat 'travel' as uncountable."
+      },
+      {
+        "question": "Is 'trip' only for short journeys?",
+        "answer": "No, a trip can be short or long. A trip around the world is still a trip."
+      }
+    ],
+    "relatedSlugs": [
+      "job-vs-work",
+      "make-vs-do",
+      "borrow-vs-lend"
+    ],
+    "seo": {
+      "title": "Travel vs Trip: Difference, Examples, and Quiz | ClearWord Lab",
+      "description": "Learn the difference between travel and trip with simple explanations, natural examples, common mistakes, and practice questions.",
+      "canonicalPath": "/confusing-words/travel-vs-trip",
+      "keywords": [
+        "travel vs trip",
+        "travel or trip",
+        "English confusing words"
+      ]
+    }
+  }
+]

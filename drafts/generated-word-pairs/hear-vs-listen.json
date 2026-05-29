@@ -1,0 +1,138 @@
+{
+  "slug": "hear-vs-listen",
+  "title": "Hear vs Listen",
+  "words": [
+    "hear",
+    "listen"
+  ],
+  "level": "A2",
+  "category": "verbs",
+  "tags": [
+    "senses",
+    "attention"
+  ],
+  "shortSummary": "Hear is passive (sound comes to you); listen is active (you pay attention).",
+  "quickAnswer": "Use 'hear' when you notice a sound without trying; use 'listen' when you pay attention to a sound.",
+  "coreDifference": "Hear means to perceive sound with your ears, often without effort; listen means to pay attention to sound intentionally.",
+  "englishExplanation": "Hear and listen are both about sound, but they are not the same. Hear means a sound comes to your ears, often without trying. Listen means you choose to pay attention to a sound or person. You may hear a sound by accident, but you listen when you choose to pay attention.",
+  "wordDetails": [
+    {
+      "word": "hear",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to receive sound with your ears",
+      "commonPatterns": [
+        "hear something",
+        "hear about something",
+        "hear from someone"
+      ]
+    },
+    {
+      "word": "listen",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to pay attention to sound",
+      "commonPatterns": [
+        "listen to something",
+        "listen for something"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "hear",
+      "sentence": "I can hear the rain outside.",
+      "note": "Passive perception."
+    },
+    {
+      "word": "hear",
+      "sentence": "Did you hear that noise?",
+      "note": "Noticing a sound."
+    },
+    {
+      "word": "hear",
+      "sentence": "I heard about the accident on the news.",
+      "note": "Receive information."
+    },
+    {
+      "word": "listen",
+      "sentence": "Please listen to the instructions carefully.",
+      "note": "Active attention."
+    },
+    {
+      "word": "listen",
+      "sentence": "She listens to music while she works.",
+      "note": "Intentional activity."
+    },
+    {
+      "word": "listen",
+      "sentence": "I listened for the baby's cry.",
+      "note": "Waiting to hear."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "hear-vs-listen-1",
+      "question": "I can ___ music from the next room.",
+      "options": [
+        "hear",
+        "listen"
+      ],
+      "answer": "hear",
+      "explanation": "Hear means the sound comes to your ears."
+    },
+    {
+      "id": "hear-vs-listen-2",
+      "question": "I ___ the news this morning.",
+      "options": [
+        "heard",
+        "listened to"
+      ],
+      "answer": "listened to",
+      "explanation": "Listen to means you chose to pay attention to the news."
+    },
+    {
+      "id": "hear-vs-listen-3",
+      "question": "Did you ___ that noise?",
+      "options": [
+        "hear",
+        "listen"
+      ],
+      "answer": "hear",
+      "explanation": "Hear is natural when you notice a sound."
+    },
+    {
+      "id": "hear-vs-listen-4",
+      "question": "Please ___ to me for a minute.",
+      "options": [
+        "hear",
+        "listen"
+      ],
+      "answer": "listen",
+      "explanation": "Listen means pay attention to what someone is saying."
+    },
+    {
+      "id": "hear-vs-listen-5",
+      "question": "I ___ someone call my name.",
+      "options": [
+        "heard",
+        "listened to"
+      ],
+      "answer": "heard",
+      "explanation": "Heard is natural when a sound reached your ears."
+    }
+  ],
+  "relatedSlugs": [
+    "look-vs-see-vs-watch",
+    "speak-vs-talk",
+    "remember-vs-remind"
+  ],
+  "seo": {
+    "title": "Hear vs Listen: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between hear and listen with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/hear-vs-listen",
+    "keywords": [
+      "hear vs listen",
+      "hear or listen",
+      "English confusing words"
+    ]
+  }
+}

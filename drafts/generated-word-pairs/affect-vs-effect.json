@@ -1,0 +1,137 @@
+{
+  "slug": "affect-vs-effect",
+  "title": "Affect vs Effect",
+  "words": [
+    "affect",
+    "effect"
+  ],
+  "level": "B1",
+  "category": "grammar",
+  "tags": [
+    "commonly confused",
+    "academic vocabulary"
+  ],
+  "shortSummary": "Affect is usually a verb meaning to influence; effect is usually a noun meaning a result.",
+  "quickAnswer": "Use 'affect' as a verb (to influence) and 'effect' as a noun (a result).",
+  "coreDifference": "Affect is most often a verb meaning to influence something; effect is most often a noun meaning the result of a change.",
+  "englishExplanation": "The main difference is that 'affect' is usually a verb, and 'effect' is usually a noun. 'Affect' means to influence or change something. For example, 'The weather affects my mood.' 'Effect' means a result or consequence. For example, 'The medicine had a positive effect.' There is also a less common use: 'effect' can be a verb meaning to cause something, but that is rare.",
+  "wordDetails": [
+    {
+      "word": "affect",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to influence or change something",
+      "commonPatterns": [
+        "affect something",
+        "be affected by something"
+      ]
+    },
+    {
+      "word": "effect",
+      "partOfSpeech": "noun",
+      "simpleMeaning": "a result or consequence",
+      "commonPatterns": [
+        "have an effect on something",
+        "the effect of something"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "affect",
+      "sentence": "The cold weather affected my health.",
+      "note": "Verb meaning influenced."
+    },
+    {
+      "word": "affect",
+      "sentence": "How does stress affect your sleep?",
+      "note": "Verb in a question."
+    },
+    {
+      "word": "affect",
+      "sentence": "The new law will affect many people.",
+      "note": "Verb showing impact."
+    },
+    {
+      "word": "effect",
+      "sentence": "The effect of the medicine was immediate.",
+      "note": "Noun meaning result."
+    },
+    {
+      "word": "effect",
+      "sentence": "Pollution has a harmful effect on the environment.",
+      "note": "Noun with adjective."
+    },
+    {
+      "word": "effect",
+      "sentence": "The new policy had a positive effect on sales.",
+      "note": "Noun showing outcome."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "affect-vs-effect-1",
+      "question": "The new law will ___ many small businesses.",
+      "options": [
+        "affect",
+        "effect"
+      ],
+      "answer": "affect",
+      "explanation": "Affect is a verb here. The law changes or influences the businesses."
+    },
+    {
+      "id": "affect-vs-effect-2",
+      "question": "The medicine had a strong ___ on him.",
+      "options": [
+        "affect",
+        "effect"
+      ],
+      "answer": "effect",
+      "explanation": "Effect is a noun here. It means the result of the medicine."
+    },
+    {
+      "id": "affect-vs-effect-3",
+      "question": "Stress can ___ your sleep.",
+      "options": [
+        "affect",
+        "effect"
+      ],
+      "answer": "affect",
+      "explanation": "Affect is the verb. Stress can change your sleep."
+    },
+    {
+      "id": "affect-vs-effect-4",
+      "question": "What was the ___ of the decision?",
+      "options": [
+        "affect",
+        "effect"
+      ],
+      "answer": "effect",
+      "explanation": "Effect is a noun here. It means the result of the decision."
+    },
+    {
+      "id": "affect-vs-effect-5",
+      "question": "The weather may ___ our travel plans.",
+      "options": [
+        "affect",
+        "effect"
+      ],
+      "answer": "affect",
+      "explanation": "Affect is the verb. The weather may change the plans."
+    }
+  ],
+  "relatedSlugs": [
+    "advice-vs-advise",
+    "sensible-vs-sensitive",
+    "fun-vs-funny"
+  ],
+  "seo": {
+    "title": "Affect vs Effect: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between affect and effect with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/affect-vs-effect",
+    "keywords": [
+      "affect vs effect",
+      "affect or effect",
+      "English confusing words"
+    ]
+  }
+}

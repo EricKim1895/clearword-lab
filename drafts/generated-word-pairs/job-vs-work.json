@@ -1,0 +1,139 @@
+{
+  "slug": "job-vs-work",
+  "title": "Job vs Work",
+  "words": [
+    "job",
+    "work"
+  ],
+  "level": "A2",
+  "category": "nouns",
+  "tags": [
+    "employment",
+    "everyday vocabulary"
+  ],
+  "shortSummary": "A job is a specific position; work is the general activity or place.",
+  "quickAnswer": "Use 'job' for a specific position or role; use 'work' for the activity or the place where you do it.",
+  "coreDifference": "Job is a countable noun meaning a specific position or role; work is an uncountable noun meaning the activity or the place where you do that activity.",
+  "englishExplanation": "Job is a countable noun for a position, such as a teacher job or a part-time job. Work is usually uncountable when it means tasks or activity. Work can also mean the place where someone does their job, as in I am at work. In everyday English, do not say \"a work\" when you mean a job or tasks.",
+  "wordDetails": [
+    {
+      "word": "job",
+      "partOfSpeech": "noun",
+      "simpleMeaning": "a specific position or role for which you get paid",
+      "commonPatterns": [
+        "have a job",
+        "get a job",
+        "lose a job"
+      ]
+    },
+    {
+      "word": "work",
+      "partOfSpeech": "noun",
+      "simpleMeaning": "the activity of doing tasks, or the place where you do them",
+      "commonPatterns": [
+        "go to work",
+        "do work",
+        "at work"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "job",
+      "sentence": "She found a new job as a nurse.",
+      "note": "Specific position."
+    },
+    {
+      "word": "job",
+      "sentence": "He has two jobs to support his family.",
+      "note": "Countable."
+    },
+    {
+      "word": "job",
+      "sentence": "I love my job because it's interesting.",
+      "note": "Role."
+    },
+    {
+      "word": "work",
+      "sentence": "I go to work by bus every day.",
+      "note": "Place."
+    },
+    {
+      "word": "work",
+      "sentence": "I have a lot of work to do today.",
+      "note": "Activity, uncountable."
+    },
+    {
+      "word": "work",
+      "sentence": "She is at work right now.",
+      "note": "Location."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "job-vs-work-1",
+      "question": "She got a new ___ in a hospital.",
+      "options": [
+        "job",
+        "work"
+      ],
+      "answer": "job",
+      "explanation": "Job is a countable position."
+    },
+    {
+      "id": "job-vs-work-2",
+      "question": "I have a lot of ___ to do today.",
+      "options": [
+        "job",
+        "work"
+      ],
+      "answer": "work",
+      "explanation": "Work is uncountable when it means tasks or activity."
+    },
+    {
+      "id": "job-vs-work-3",
+      "question": "My brother is looking for a ___.",
+      "options": [
+        "job",
+        "work"
+      ],
+      "answer": "job",
+      "explanation": "A job is a position that someone can get."
+    },
+    {
+      "id": "job-vs-work-4",
+      "question": "He is at ___ now.",
+      "options": [
+        "job",
+        "work"
+      ],
+      "answer": "work",
+      "explanation": "At work means at the place where someone works."
+    },
+    {
+      "id": "job-vs-work-5",
+      "question": "Teaching is a difficult ___.",
+      "options": [
+        "job",
+        "work"
+      ],
+      "answer": "job",
+      "explanation": "Job is natural when talking about a type of position."
+    }
+  ],
+  "relatedSlugs": [
+    "make-vs-do",
+    "learn-vs-study",
+    "travel-vs-trip"
+  ],
+  "seo": {
+    "title": "Job vs Work: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between job and work with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/job-vs-work",
+    "keywords": [
+      "job vs work",
+      "job or work",
+      "English confusing words"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "learn-vs-study",
+  "title": "Learn vs Study",
+  "words": [
+    "learn",
+    "study"
+  ],
+  "level": "A2",
+  "category": "verbs",
+  "tags": [
+    "education"
+  ],
+  "shortSummary": "Learn means to gain knowledge or skill; study means to spend time learning, often by reading or practicing.",
+  "quickAnswer": "Use 'learn' when you focus on the result (gaining knowledge). Use 'study' when you focus on the process (the time and effort you spend).",
+  "coreDifference": "Learn is about the outcome (knowing something new); study is about the activity (trying to learn).",
+  "englishExplanation": "Learn and study are related but not the same. When you learn something, you understand it or can do it. For example, 'I learned to swim last summer.' When you study, you spend time reading, practicing, or trying to learn. For example, 'I studied for three hours.' You can study without learning (if you don't understand), and you can learn without studying (like learning from experience).",
+  "wordDetails": [
+    {
+      "word": "learn",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to gain knowledge or skill by experience, study, or teaching",
+      "commonPatterns": [
+        "learn + noun",
+        "learn to + verb",
+        "learn about + noun"
+      ]
+    },
+    {
+      "word": "study",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to spend time reading, memorizing, or practicing in order to learn",
+      "commonPatterns": [
+        "study + noun",
+        "study for + exam",
+        "study to + verb"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "learn",
+      "sentence": "I learned how to cook from my grandmother.",
+      "note": "You gained the skill."
+    },
+    {
+      "word": "learn",
+      "sentence": "Children learn languages quickly.",
+      "note": "They naturally gain knowledge."
+    },
+    {
+      "word": "learn",
+      "sentence": "What did you learn in class today?",
+      "note": "Focus on the new knowledge."
+    },
+    {
+      "word": "study",
+      "sentence": "I need to study for the test tomorrow.",
+      "note": "You will spend time preparing."
+    },
+    {
+      "word": "study",
+      "sentence": "She studies English every evening.",
+      "note": "She regularly spends time on it."
+    },
+    {
+      "word": "study",
+      "sentence": "He studied the map carefully.",
+      "note": "He examined it in detail."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "learn-vs-study-1",
+      "question": "I want to ______ Spanish before my trip.",
+      "options": [
+        "learn",
+        "study"
+      ],
+      "answer": "learn",
+      "explanation": "You want to gain the ability to speak Spanish, so 'learn' is better."
+    },
+    {
+      "id": "learn-vs-study-2",
+      "question": "She ______ for three hours last night.",
+      "options": [
+        "learned",
+        "studied"
+      ],
+      "answer": "studied",
+      "explanation": "The sentence describes the time spent, so 'studied' is correct."
+    },
+    {
+      "id": "learn-vs-study-3",
+      "question": "I ______ a lot from my mistakes.",
+      "options": [
+        "learn",
+        "study"
+      ],
+      "answer": "learn",
+      "explanation": "You gain knowledge from experience, so 'learn' is appropriate."
+    },
+    {
+      "id": "learn-vs-study-4",
+      "question": "He needs to ______ for his driving test.",
+      "options": [
+        "learn",
+        "study"
+      ],
+      "answer": "study",
+      "explanation": "He needs to prepare for the test, so 'study' is correct."
+    },
+    {
+      "id": "learn-vs-study-5",
+      "question": "Did you ______ how to fix the car?",
+      "options": [
+        "learn",
+        "study"
+      ],
+      "answer": "learn",
+      "explanation": "The question asks if you gained the skill, so 'learn' is correct."
+    }
+  ],
+  "relatedSlugs": [
+    "remember-vs-remind",
+    "job-vs-work",
+    "make-vs-do"
+  ],
+  "seo": {
+    "title": "Learn vs Study: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between learn and study with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/learn-vs-study",
+    "keywords": [
+      "learn vs study",
+      "learn or study",
+      "English confusing words"
+    ]
+  }
+}

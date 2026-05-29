@@ -1,0 +1,143 @@
+{
+  "slug": "travel-vs-trip",
+  "title": "Travel vs Trip",
+  "words": [
+    "travel",
+    "trip"
+  ],
+  "level": "A2",
+  "category": "nouns",
+  "tags": [
+    "travel",
+    "trip",
+    "vocabulary",
+    "confusing words"
+  ],
+  "shortSummary": "Travel is the general activity of moving from place to place; a trip is a specific journey with a purpose.",
+  "quickAnswer": "Use 'travel' for the general idea of going places, and 'trip' for a specific journey you take.",
+  "coreDifference": "Travel is an uncountable noun or verb about moving in general; trip is a countable noun for a specific journey.",
+  "englishExplanation": "Travel is the general activity of moving from one place to another, often over long distances. It can be a verb (I love to travel) or an uncountable noun (Travel broadens the mind). A trip is a specific journey, usually for a short time and with a purpose, like a business trip or a weekend trip. Trip is a countable noun, so you can say 'a trip' or 'three trips'.",
+  "wordDetails": [
+    {
+      "word": "travel",
+      "partOfSpeech": "verb/noun",
+      "simpleMeaning": "to go from one place to another, or the activity of doing so",
+      "commonPatterns": [
+        "travel to [place]",
+        "travel by [transport]",
+        "travel around [area]"
+      ]
+    },
+    {
+      "word": "trip",
+      "partOfSpeech": "noun",
+      "simpleMeaning": "a journey to a place and back, usually for a short time",
+      "commonPatterns": [
+        "a trip to [place]",
+        "on a trip",
+        "business trip",
+        "day trip"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "travel",
+      "sentence": "I love to travel and see new places.",
+      "note": "General activity."
+    },
+    {
+      "word": "travel",
+      "sentence": "Travel can be expensive if you don't plan ahead.",
+      "note": "Uncountable noun."
+    },
+    {
+      "word": "travel",
+      "sentence": "She travels to Japan every year for work.",
+      "note": "Verb form."
+    },
+    {
+      "word": "trip",
+      "sentence": "We took a trip to the beach last weekend.",
+      "note": "Specific journey."
+    },
+    {
+      "word": "trip",
+      "sentence": "How was your business trip to London?",
+      "note": "Purpose-specific."
+    },
+    {
+      "word": "trip",
+      "sentence": "I need to plan a trip to visit my family.",
+      "note": "Countable noun."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "travel-vs-trip-1",
+      "question": "I want to ___ around the world.",
+      "options": [
+        "travel",
+        "trip"
+      ],
+      "answer": "travel",
+      "explanation": "Travel is a verb here. It means go to different places."
+    },
+    {
+      "id": "travel-vs-trip-2",
+      "question": "We went on a ___ to the mountains.",
+      "options": [
+        "travel",
+        "trip"
+      ],
+      "answer": "trip",
+      "explanation": "A trip is one journey to a place and back."
+    },
+    {
+      "id": "travel-vs-trip-3",
+      "question": "I love ___.",
+      "options": [
+        "travel",
+        "trip"
+      ],
+      "answer": "travel",
+      "explanation": "Travel can be used as an uncountable noun for the activity in general."
+    },
+    {
+      "id": "travel-vs-trip-4",
+      "question": "She is on a business ___ in New York.",
+      "options": [
+        "travel",
+        "trip"
+      ],
+      "answer": "trip",
+      "explanation": "A business trip is a specific journey for work."
+    },
+    {
+      "id": "travel-vs-trip-5",
+      "question": "How many ___ have you taken this year?",
+      "options": [
+        "travel",
+        "trips"
+      ],
+      "answer": "trips",
+      "explanation": "Trips is the plural countable noun for separate journeys."
+    }
+  ],
+  "relatedSlugs": [
+    "job-vs-work",
+    "make-vs-do",
+    "hear-vs-listen"
+  ],
+  "seo": {
+    "title": "Travel vs Trip: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between travel and trip with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/travel-vs-trip",
+    "keywords": [
+      "travel vs trip",
+      "travel or trip",
+      "English confusing words",
+      "travel trip difference"
+    ]
+  }
+}

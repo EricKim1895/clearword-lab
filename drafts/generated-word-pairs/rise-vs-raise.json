@@ -1,0 +1,139 @@
+{
+  "slug": "rise-vs-raise",
+  "title": "Rise vs Raise",
+  "words": [
+    "rise",
+    "raise"
+  ],
+  "level": "B1",
+  "category": "verbs",
+  "tags": [
+    "confusing verbs",
+    "transitive intransitive"
+  ],
+  "shortSummary": "Rise means to go up by itself; raise means to lift something up.",
+  "quickAnswer": "Use 'rise' when something moves upward on its own (no object). Use 'raise' when you lift or increase something (needs an object).",
+  "coreDifference": "Rise is intransitive (no object), raise is transitive (needs an object).",
+  "englishExplanation": "Rise and raise are often confused. 'Rise' means to go up or increase without help. It does not take an object. For example, the sun rises. 'Raise' means to lift something or make something go up. It always needs an object. For example, you raise your hand. Remember: you raise something, but something rises.",
+  "wordDetails": [
+    {
+      "word": "rise",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to move upward or increase",
+      "commonPatterns": [
+        "rise up",
+        "rise from",
+        "rise to"
+      ]
+    },
+    {
+      "word": "raise",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to lift something or make something higher",
+      "commonPatterns": [
+        "raise something",
+        "raise your hand",
+        "raise prices"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "rise",
+      "sentence": "The sun rises in the east.",
+      "note": "No object."
+    },
+    {
+      "word": "rise",
+      "sentence": "Temperatures rise in summer.",
+      "note": "Increase on its own."
+    },
+    {
+      "word": "raise",
+      "sentence": "Please raise your hand if you have a question.",
+      "note": "Lift your hand."
+    },
+    {
+      "word": "raise",
+      "sentence": "The company raised prices.",
+      "note": "Made prices higher."
+    },
+    {
+      "word": "rise",
+      "sentence": "The balloon rose into the sky.",
+      "note": "Moved upward."
+    },
+    {
+      "word": "raise",
+      "sentence": "She raised her voice so we could hear.",
+      "note": "Made her voice louder."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "rise-vs-raise-1",
+      "question": "The bread dough needs to ___.",
+      "options": [
+        "rise",
+        "raise"
+      ],
+      "answer": "rise",
+      "explanation": "The dough expands on its own, so 'rise'."
+    },
+    {
+      "id": "rise-vs-raise-2",
+      "question": "Please ___ the window.",
+      "options": [
+        "rise",
+        "raise"
+      ],
+      "answer": "raise",
+      "explanation": "You lift the window, so 'raise' needs an object."
+    },
+    {
+      "id": "rise-vs-raise-3",
+      "question": "The river ___ after the rain.",
+      "options": [
+        "rose",
+        "raised"
+      ],
+      "answer": "rose",
+      "explanation": "The water level went up on its own."
+    },
+    {
+      "id": "rise-vs-raise-4",
+      "question": "They ___ money for charity.",
+      "options": [
+        "rose",
+        "raised"
+      ],
+      "answer": "raised",
+      "explanation": "They collected money, so 'raise' with object."
+    },
+    {
+      "id": "rise-vs-raise-5",
+      "question": "Smoke ___ from the chimney.",
+      "options": [
+        "rises",
+        "raises"
+      ],
+      "answer": "rises",
+      "explanation": "Smoke goes up by itself."
+    }
+  ],
+  "relatedSlugs": [
+    "bring-vs-take",
+    "affect-vs-effect",
+    "remember-vs-remind"
+  ],
+  "seo": {
+    "title": "Rise vs Raise: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between rise and raise with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/rise-vs-raise",
+    "keywords": [
+      "rise vs raise",
+      "rise or raise",
+      "English confusing verbs"
+    ]
+  }
+}

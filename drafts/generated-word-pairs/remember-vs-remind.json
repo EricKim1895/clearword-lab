@@ -1,0 +1,138 @@
+{
+  "slug": "remember-vs-remind",
+  "title": "Remember vs Remind",
+  "words": [
+    "remember",
+    "remind"
+  ],
+  "level": "A2",
+  "category": "verbs",
+  "tags": [
+    "memory"
+  ],
+  "shortSummary": "Remember means to keep something in your mind; remind means to help someone else remember.",
+  "quickAnswer": "Use 'remember' when you keep something in your mind yourself. Use 'remind' when someone or something helps you (or another person) not to forget.",
+  "coreDifference": "Remember is about your own memory; remind is about causing someone to remember.",
+  "englishExplanation": "Remember and remind are both about memory, but they work differently. When you remember something, you keep it in your mind or bring it back to your mind without help. For example, 'I remember her name.' When you remind someone, you help them remember something. For example, 'Please remind me to call my mother.' You can also say 'That reminds me...' when something makes you remember.",
+  "wordDetails": [
+    {
+      "word": "remember",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to have or bring back a memory",
+      "commonPatterns": [
+        "remember + noun",
+        "remember + to + verb",
+        "remember + that clause"
+      ]
+    },
+    {
+      "word": "remind",
+      "partOfSpeech": "verb",
+      "simpleMeaning": "to help someone remember",
+      "commonPatterns": [
+        "remind + someone",
+        "remind + someone + to + verb",
+        "remind + someone + of + noun"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "remember",
+      "sentence": "I remember our first date clearly.",
+      "note": "You keep the memory in your mind."
+    },
+    {
+      "word": "remember",
+      "sentence": "Please remember to lock the door.",
+      "note": "You must not forget to do it."
+    },
+    {
+      "word": "remember",
+      "sentence": "Do you remember where we parked?",
+      "note": "You try to bring back a memory."
+    },
+    {
+      "word": "remind",
+      "sentence": "Can you remind me to buy milk?",
+      "note": "You ask someone to help you not forget."
+    },
+    {
+      "word": "remind",
+      "sentence": "This song reminds me of my childhood.",
+      "note": "The song makes you remember."
+    },
+    {
+      "word": "remind",
+      "sentence": "I set an alarm to remind me of the meeting.",
+      "note": "The alarm helps you remember."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "remember-vs-remind-1",
+      "question": "I always ______ to feed the cat before I leave.",
+      "options": [
+        "remember",
+        "remind"
+      ],
+      "answer": "remember",
+      "explanation": "You keep the action in your own mind, so use 'remember'."
+    },
+    {
+      "id": "remember-vs-remind-2",
+      "question": "Could you ______ me to bring the documents?",
+      "options": [
+        "remember",
+        "remind"
+      ],
+      "answer": "remind",
+      "explanation": "You are asking someone to help you not forget, so use 'remind'."
+    },
+    {
+      "id": "remember-vs-remind-3",
+      "question": "This photo ______ me of our vacation.",
+      "options": [
+        "remembers",
+        "reminds"
+      ],
+      "answer": "reminds",
+      "explanation": "The photo causes you to remember, so use 'reminds'."
+    },
+    {
+      "id": "remember-vs-remind-4",
+      "question": "I don't ______ where I put my keys.",
+      "options": [
+        "remember",
+        "remind"
+      ],
+      "answer": "remember",
+      "explanation": "You are trying to bring back a memory yourself, so use 'remember'."
+    },
+    {
+      "id": "remember-vs-remind-5",
+      "question": "Please ______ him to call me back.",
+      "options": [
+        "remember",
+        "remind"
+      ],
+      "answer": "remind",
+      "explanation": "You want someone to help another person remember, so use 'remind'."
+    }
+  ],
+  "relatedSlugs": [
+    "learn-vs-study",
+    "say-vs-tell",
+    "hear-vs-listen"
+  ],
+  "seo": {
+    "title": "Remember vs Remind: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between remember and remind with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/remember-vs-remind",
+    "keywords": [
+      "remember vs remind",
+      "remember or remind",
+      "English confusing words"
+    ]
+  }
+}

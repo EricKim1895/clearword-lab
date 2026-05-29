@@ -1,0 +1,139 @@
+{
+  "slug": "alone-vs-lonely",
+  "title": "Alone vs Lonely",
+  "words": [
+    "alone",
+    "lonely"
+  ],
+  "level": "A2",
+  "category": "adjectives",
+  "tags": [
+    "emotions",
+    "state"
+  ],
+  "shortSummary": "Alone means physically by yourself; lonely means feeling sad because you are alone.",
+  "quickAnswer": "Alone = no one else is there. Lonely = you feel sad about being alone.",
+  "coreDifference": "Alone describes a physical state; lonely describes an emotional feeling.",
+  "englishExplanation": "The key difference is that 'alone' is about being without other people, while 'lonely' is about feeling sad or unhappy because you are alone. You can be alone but not feel lonely (for example, if you enjoy your own company). You can also feel lonely even when you are with other people, if you don't feel connected to them.",
+  "wordDetails": [
+    {
+      "word": "alone",
+      "partOfSpeech": "adjective",
+      "simpleMeaning": "without other people",
+      "commonPatterns": [
+        "be alone",
+        "live alone",
+        "go alone"
+      ]
+    },
+    {
+      "word": "lonely",
+      "partOfSpeech": "adjective",
+      "simpleMeaning": "feeling sad because you are alone or without friends",
+      "commonPatterns": [
+        "feel lonely",
+        "a lonely person",
+        "lonely place"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "word": "alone",
+      "sentence": "I like to be alone sometimes to read.",
+      "note": "Physical state: no one else is there."
+    },
+    {
+      "word": "lonely",
+      "sentence": "She felt lonely after moving to a new city.",
+      "note": "Emotion: sadness from being alone."
+    },
+    {
+      "word": "alone",
+      "sentence": "He lives alone in a small apartment.",
+      "note": "Physical state: he lives by himself."
+    },
+    {
+      "word": "lonely",
+      "sentence": "The old man looked lonely sitting on the bench.",
+      "note": "Emotion: he appears sad and isolated."
+    },
+    {
+      "word": "alone",
+      "sentence": "You don't have to go alone; I can come with you.",
+      "note": "Physical state: going without others."
+    },
+    {
+      "word": "lonely",
+      "sentence": "Even in a crowd, she sometimes feels lonely.",
+      "note": "Emotion: feeling disconnected despite being with people."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "alone-vs-lonely-1",
+      "question": "She lives ______ in a big house, but she doesn't mind.",
+      "options": [
+        "alone",
+        "lonely"
+      ],
+      "answer": "alone",
+      "explanation": "It describes her living situation, not her feelings."
+    },
+    {
+      "id": "alone-vs-lonely-2",
+      "question": "After his friends left, he felt very ______.",
+      "options": [
+        "alone",
+        "lonely"
+      ],
+      "answer": "lonely",
+      "explanation": "He felt sad, so use 'lonely'."
+    },
+    {
+      "id": "alone-vs-lonely-3",
+      "question": "I prefer to work ______ because I can focus better.",
+      "options": [
+        "alone",
+        "lonely"
+      ],
+      "answer": "alone",
+      "explanation": "It's a preference, not a feeling of sadness."
+    },
+    {
+      "id": "alone-vs-lonely-4",
+      "question": "The ______ puppy waited for someone to play with it.",
+      "options": [
+        "alone",
+        "lonely"
+      ],
+      "answer": "lonely",
+      "explanation": "The puppy seems sad, so use 'lonely'."
+    },
+    {
+      "id": "alone-vs-lonely-5",
+      "question": "He decided to travel ______ around Europe.",
+      "options": [
+        "alone",
+        "lonely"
+      ],
+      "answer": "alone",
+      "explanation": "It describes his travel style, not his emotions."
+    }
+  ],
+  "relatedSlugs": [
+    "fun-vs-funny",
+    "sensible-vs-sensitive",
+    "speak-vs-talk"
+  ],
+  "seo": {
+    "title": "Alone vs Lonely: Difference, Examples, and Quiz | ClearWord Lab",
+    "description": "Learn the difference between alone and lonely with simple explanations, natural examples, and practice questions.",
+    "canonicalPath": "/confusing-words/alone-vs-lonely",
+    "keywords": [
+      "alone vs lonely",
+      "alone or lonely",
+      "English confusing words"
+    ]
+  }
+}
