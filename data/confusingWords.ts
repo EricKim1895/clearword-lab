@@ -17,7 +17,7 @@ export const confusingWords: ConfusingWordEntry[] = [
       "collocations"
     ],
     "shortSummary": "Use make when you create, produce, or cause something. Use do for tasks, activities, work, and routines.",
-    "quickAnswer": "Use make when you focus on a result, such as a meal, a plan, or a mistake. Use do when you focus on an action, task, job, or routine.",
+    "quickAnswer": "Use make when you focus on a result, such as a meal, a plan, or a mistake. Use do when you focus on an action, task, job, or routine. If you are not sure whether to use make or do, ask whether you mean a result or an action.",
     "coreDifference": "Make often focuses on the result. Do often focuses on the action or activity.",
     "englishExplanation": "Make and do are both common verbs, but they are used with different nouns. In many cases, the best way to learn them is as natural word combinations. We make dinner, make a decision, make progress, and make a mistake. We do homework, do the dishes, do the laundry, and do our best. The result/action idea is useful, but it is not a perfect rule for every sentence.",
     "wordDetails": [
