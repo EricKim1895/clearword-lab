@@ -3,7 +3,7 @@ import { absoluteUrl } from "@/lib/site";
 import { getAllWordPairs } from "@/lib/words";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ["/", "/about", "/confusing-words", "/quiz", "/review"];
+  const staticRoutes = ["/", "/about", "/confusing-words", "/daily-word-categories", "/quiz", "/review"];
   const wordRoutes = getAllWordPairs().map((entry) => entry.seo.canonicalPath);
 
   return [...staticRoutes, ...wordRoutes].map((route) => ({

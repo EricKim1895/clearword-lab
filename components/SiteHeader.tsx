@@ -2,6 +2,7 @@ import Link from "next/link";
 
 const navItems = [
   { href: "/confusing-words", label: "Confusing Words" },
+  { href: "/daily-word-categories", label: "Daily Puzzle" },
   { href: "/quiz", label: "Practice" },
   { href: "/review", label: "Review" },
   { href: "/about", label: "About" },

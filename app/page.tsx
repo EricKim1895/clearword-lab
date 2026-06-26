@@ -14,6 +14,11 @@ const entryLinks = [
     description: "Try 10 random questions from the local lesson data.",
   },
   {
+    href: "/daily-word-categories",
+    title: "Daily Word Categories",
+    description: "Sort 16 English words into 4 hidden vocabulary groups.",
+  },
+  {
     href: "/review",
     title: "Daily Review",
     description: "Review saved word pairs and mistakes stored in your browser.",
@@ -48,6 +53,12 @@ export default function Home() {
                 className="inline-flex min-h-12 items-center justify-center rounded-md border border-teal-200 bg-white px-5 text-sm font-semibold text-teal-800 transition hover:bg-teal-50"
               >
                 Start Practice
+              </Link>
+              <Link
+                href="/daily-word-categories"
+                className="inline-flex min-h-12 items-center justify-center rounded-md border border-sky-200 bg-white px-5 text-sm font-semibold text-sky-800 transition hover:bg-sky-50"
+              >
+                Play Daily Puzzle
               </Link>
             </div>
           </div>
